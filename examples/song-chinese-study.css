@@ -1,0 +1,12 @@
+:root {
+  --cc-bg: #eef7f2;
+  --cc-primary: #8abcd1;
+  --cc-secondary: #223e36;
+  --cc-accent: #ed5126;
+  --cc-ink: #223e36; /* 苍绿 */
+}
+
+/* 宋式书斋 */
+.cc-surface { background: #eef7f2; color: var(--cc-ink); }
+.cc-title { color: #8abcd1; }
+.cc-detail { color: #ed5126; }

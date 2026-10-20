@@ -1,3158 +1,528 @@
 [
-  {
-    "name": "丁香棕",
-    "hex": "#71361D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "丁香淡紫",
-    "hex": "#E9D7DF",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "万寿菊黄",
-    "hex": "#FB8B05",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "中灰",
-    "hex": "#BBB5AC",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "中灰驼",
-    "hex": "#603D30",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "中红灰",
-    "hex": "#8B614D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "丹紫红",
-    "hex": "#D2568C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "丽春红",
-    "hex": "#EB261A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "乌梅紫",
-    "hex": "#1E131D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "乳白",
-    "hex": "#F9F4DC",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "乳鸭黄",
-    "hex": "#FFC90C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "云山蓝",
-    "hex": "#2F90B9",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "云峰白",
-    "hex": "#D8E3E7",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "云杉绿",
-    "hex": "#15231B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "云水蓝",
-    "hex": "#BACCD9",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "井天蓝",
-    "hex": "#C3D7DF",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "亚丁绿",
-    "hex": "#428675",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "介壳淡粉红",
-    "hex": "#F7CFBA",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "余烬红",
-    "hex": "#CF7543",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "佛手黄",
-    "hex": "#FED71A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "兔眼红",
-    "hex": "#EC4E8A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "冰山蓝",
-    "hex": "#A4ACA7",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "凋叶棕",
-    "hex": "#E7A23F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "凤仙花红",
-    "hex": "#EA7293",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "凤信紫",
-    "hex": "#C8ADC4",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "初桃粉红",
-    "hex": "#F6DCCE",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "初熟杏黄",
-    "hex": "#F8BC31",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "初荷红",
-    "hex": "#E16C96",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "剑锋紫",
-    "hex": "#3E3841",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "北瓜黄",
-    "hex": "#FC8C23",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "卵石紫",
-    "hex": "#30161C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "古铜紫",
-    "hex": "#440E25",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "古铜绿",
-    "hex": "#533C1B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "古铜褐",
-    "hex": "#5C3719",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "古鼎灰",
-    "hex": "#36292F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "可可棕",
-    "hex": "#652B1C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "合欢红",
-    "hex": "#F0A1A8",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "吊钟花红",
-    "hex": "#CE5E8A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "向日葵黄",
-    "hex": "#FECC11",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "咖啡",
-    "hex": "#753117",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "品红",
-    "hex": "#EF3473",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "品蓝",
-    "hex": "#2B73AF",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "唐菖蒲红",
-    "hex": "#DE1C31",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "喜蛋红",
-    "hex": "#EC2C64",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "嘉陵水绿",
-    "hex": "#ADD5A2",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "土黄",
-    "hex": "#D6A01D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "垩灰",
-    "hex": "#737C7B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "墨紫",
-    "hex": "#310F1B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "夏云灰",
-    "hex": "#617172",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "夕阳红",
-    "hex": "#DE2A18",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "夜灰",
-    "hex": "#847C74",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "大理石灰",
-    "hex": "#C4CBCF",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "大红",
-    "hex": "#F04B22",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "大豆黄",
-    "hex": "#FBCD31",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "天蓝",
-    "hex": "#1677B3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "夹竹桃红",
-    "hex": "#EB507E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "姚黄",
-    "hex": "#D0DEAA",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "姜红",
-    "hex": "#EEB8C3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "姜黄",
-    "hex": "#E2C027",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "嫩灰",
-    "hex": "#74787A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "嫩菊绿",
-    "hex": "#F0F5E5",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "嫩菱红",
-    "hex": "#DE3F7C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "孔雀绿",
-    "hex": "#229453",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "孔雀蓝",
-    "hex": "#0EB0C9",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "安安蓝",
-    "hex": "#3170A7",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "宝石绿",
-    "hex": "#41AE3C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "宝石蓝",
-    "hex": "#2486B9",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "宫殿绿",
-    "hex": "#20894D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "尖晶玉红",
-    "hex": "#CC163A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "尘灰",
-    "hex": "#B6A476",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "尼罗蓝",
-    "hex": "#2474B5",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "山梗紫",
-    "hex": "#61649F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "山茶红",
-    "hex": "#ED556A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "山鸡褐",
-    "hex": "#986524",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "山鸡黄",
-    "hex": "#B78B26",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "山黎豆红",
-    "hex": "#C27C88",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "岩石棕",
-    "hex": "#964D22",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "战舰灰",
-    "hex": "#495C69",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "扁豆紫",
-    "hex": "#A35C8F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "扁豆花红",
-    "hex": "#EF498B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "报春红",
-    "hex": "#EC8AA4",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "搪磁蓝",
-    "hex": "#11659A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "斑鸠灰",
-    "hex": "#482936",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "新禾绿",
-    "hex": "#D2B116",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "无花果红",
-    "hex": "#EFAFAD",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "明灰",
-    "hex": "#8A988E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "明绿",
-    "hex": "#9ECCAB",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "星灰",
-    "hex": "#B2BBBE",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "星蓝",
-    "hex": "#93B5CF",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "春梅红",
-    "hex": "#F1939C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "晓灰",
-    "hex": "#D4C4B7",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "晚波蓝",
-    "hex": "#648E93",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "晨曦红",
-    "hex": "#EA8958",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "景泰蓝",
-    "hex": "#2775B6",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "晴山蓝",
-    "hex": "#8FB2C9",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "晶石紫",
-    "hex": "#1F2040",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "晶红",
-    "hex": "#EEA6B7",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "暗海水绿",
-    "hex": "#584717",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "暗玉紫",
-    "hex": "#5C2223",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "暗紫苑红",
-    "hex": "#82202B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "暗蓝",
-    "hex": "#101F30",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "暗蓝紫",
-    "hex": "#131124",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "暗驼棕",
-    "hex": "#592620",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "暗龙胆紫",
-    "hex": "#22202E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "暮云灰",
-    "hex": "#4F383E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "曲红",
-    "hex": "#F05A46",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "月季红",
-    "hex": "#CE576D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "月影白",
-    "hex": "#C0C4C3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "月灰",
-    "hex": "#B7AE8F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "月白",
-    "hex": "#EEF7F2",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "木瓜黄",
-    "hex": "#F9C116",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "朱红",
-    "hex": "#ED5126",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "李紫",
-    "hex": "#2B1216",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "杏仁黄",
-    "hex": "#F9ECC3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "杏黄",
-    "hex": "#FA8E16",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "松叶牡丹红",
-    "hex": "#EB3C70",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "松霜绿",
-    "hex": "#83A78D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "松鼠灰",
-    "hex": "#4F4032",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "极光红",
-    "hex": "#F33B1F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "枇杷黄",
-    "hex": "#FCA106",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "枣红",
-    "hex": "#7C1823",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "枫叶红",
-    "hex": "#C21F30",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "枯绿",
-    "hex": "#B78D12",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "枸枢红",
-    "hex": "#ED3333",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "柏林蓝",
-    "hex": "#126BAE",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "柚黄",
-    "hex": "#F1CA17",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "柞叶棕",
-    "hex": "#692A1B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "柠檬黄",
-    "hex": "#FCD337",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "柿红",
-    "hex": "#F2481B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "栀子黄",
-    "hex": "#EBB10D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "栗棕",
-    "hex": "#5C1E19",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "栗紫",
-    "hex": "#5A191B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "桂皮淡棕",
-    "hex": "#C09351",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "桂红",
-    "hex": "#F25A47",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "桃红",
-    "hex": "#F0ADA0",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "桔梗紫",
-    "hex": "#813C85",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "梧枝绿",
-    "hex": "#69A794",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "棕榈绿",
-    "hex": "#5B4913",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "椰壳棕",
-    "hex": "#883A1E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "榲桲红",
-    "hex": "#ED2F6A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "榴子红",
-    "hex": "#F1908C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "榴花红",
-    "hex": "#F34718",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "榴萼黄",
-    "hex": "#F9A633",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "槐花黄绿",
-    "hex": "#D2D97A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "槟榔综",
-    "hex": "#C1651A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "槲寄生绿",
-    "hex": "#2B312C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "槿紫",
-    "hex": "#806D9E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "樫鸟蓝",
-    "hex": "#1491A8",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "樱桃红",
-    "hex": "#ED3321",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "樱草紫",
-    "hex": "#C06F98",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "橄榄灰",
-    "hex": "#503E2A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "橄榄石绿",
-    "hex": "#B2CF87",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "橄榄绿",
-    "hex": "#5E5314",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "橄榄黄绿",
-    "hex": "#BEC936",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "橘橙",
-    "hex": "#F97D1C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "橙皮黄",
-    "hex": "#FCA104",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "橡树棕",
-    "hex": "#773D31",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "檀紫",
-    "hex": "#381924",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "殷红",
-    "hex": "#82111F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "毛绿",
-    "hex": "#66C18C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "水牛灰",
-    "hex": "#2F2F35",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "水红",
-    "hex": "#F1C4CD",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "水绿",
-    "hex": "#8CC269",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "汉白玉",
-    "hex": "#F8F4ED",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "沙石黄",
-    "hex": "#E5B751",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "沙鱼灰",
-    "hex": "#35333C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "河豚灰",
-    "hex": "#393733",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "油绿",
-    "hex": "#253D24",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "油菜花黄",
-    "hex": "#FBDA41",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "法螺红",
-    "hex": "#EE8055",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "洋水仙红",
-    "hex": "#F4C7BA",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "洋葱紫",
-    "hex": "#A8456B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "浅灰",
-    "hex": "#DAD4CB",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "浅烙黄",
-    "hex": "#F9BD10",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "浅驼色",
-    "hex": "#E2C17C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "浪花绿",
-    "hex": "#92B3A5",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海军蓝",
-    "hex": "#346C9C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海参灰",
-    "hex": "#FFFEFA",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海天蓝",
-    "hex": "#C6E6E8",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海报灰",
-    "hex": "#483332",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海棠红",
-    "hex": "#F03752",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海沬绿",
-    "hex": "#E2E7BF",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海涛蓝",
-    "hex": "#15559A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海王绿",
-    "hex": "#248067",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海螺橙",
-    "hex": "#F0945D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海象紫",
-    "hex": "#4B1E2F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海青",
-    "hex": "#22A2C3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "海鸥灰",
-    "hex": "#9A8878",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "润红",
-    "hex": "#F7CDBC",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "涧石蓝",
-    "hex": "#66A9C9",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡可可棕",
-    "hex": "#B7511D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡咖啡",
-    "hex": "#945833",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡土黄",
-    "hex": "#8C4B31",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡密黄",
-    "hex": "#F9D367",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡曙红",
-    "hex": "#EE2746",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡松烟",
-    "hex": "#4D4030",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡栗棕",
-    "hex": "#673424",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡桃红",
-    "hex": "#F6CEC1",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡橘橙",
-    "hex": "#FBA414",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡灰绿",
-    "hex": "#AD9E55",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡牵牛紫",
-    "hex": "#D1C2D3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡玫瑰灰",
-    "hex": "#B89485",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡米粉",
-    "hex": "#FBEEE2",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡绛红",
-    "hex": "#EC7696",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡绯",
-    "hex": "#F2CAC9",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡绿",
-    "hex": "#61AC85",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡绿灰",
-    "hex": "#70887D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡罂粟红",
-    "hex": "#EEA08C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡翠绿",
-    "hex": "#C6DFC8",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡肉色",
-    "hex": "#F8E0B0",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡茜红",
-    "hex": "#E77C8E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡茧黄",
-    "hex": "#F9D770",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡菽红",
-    "hex": "#ED4845",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡蓝灰",
-    "hex": "#5E7987",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡蓝紫",
-    "hex": "#A7A8BD",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡蕊香红",
-    "hex": "#EE4866",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡藏花红",
-    "hex": "#F6AD8F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡藤萝紫",
-    "hex": "#F2E7E5",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡豆沙",
-    "hex": "#873D24",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡赭",
-    "hex": "#BE7E4A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡铁灰",
-    "hex": "#5B423A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡银灰",
-    "hex": "#C1B2A3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "淡青紫",
-    "hex": "#E0C8D1",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "深海绿",
-    "hex": "#1A3B32",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "深灰",
-    "hex": "#81776E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "深灰蓝",
-    "hex": "#132C33",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "深牵牛紫",
-    "hex": "#1C0D1A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "清水蓝",
-    "hex": "#93D5DC",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "湖水蓝",
-    "hex": "#B0D5DF",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "满天星紫",
-    "hex": "#2E317C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "满江红",
-    "hex": "#A7535A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "潭水绿",
-    "hex": "#645822",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "潮蓝",
-    "hex": "#2983BB",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "瀑布蓝",
-    "hex": "#51C4D3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "火山棕",
-    "hex": "#482522",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "火岩棕",
-    "hex": "#863020",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "火泥棕",
-    "hex": "#AA6A4C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "火砖红",
-    "hex": "#CD6227",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "火鹅紫",
-    "hex": "#33141E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "灰绿",
-    "hex": "#8A6913",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "灰蓝",
-    "hex": "#21373D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "炒米黄",
-    "hex": "#F4CE69",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "烟红",
-    "hex": "#894E54",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "焦茶绿",
-    "hex": "#553B18",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "燕羽灰",
-    "hex": "#685E48",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "燕颔红",
-    "hex": "#FC6315",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "燕颔蓝",
-    "hex": "#131824",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "牛角灰",
-    "hex": "#2D2E36",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "牡丹粉红",
-    "hex": "#EEA2A4",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "牵牛紫",
-    "hex": "#681752",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "牵牛花蓝",
-    "hex": "#1177B0",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "狼烟灰",
-    "hex": "#5D655F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "猪肝紫",
-    "hex": "#541E24",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "猴毛灰",
-    "hex": "#97846C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玉簪绿",
-    "hex": "#A4CAB6",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玉粉红",
-    "hex": "#E8B49A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玉红",
-    "hex": "#C04851",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玉鈫蓝",
-    "hex": "#126E82",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玉髓绿",
-    "hex": "#41B349",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玛瑙灰",
-    "hex": "#CFCCC9",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玫瑰灰",
-    "hex": "#AF2E2B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玫瑰粉",
-    "hex": "#F8B37F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玫瑰紫",
-    "hex": "#BA2F7B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玫瑰红",
-    "hex": "#D2357D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "玳瑁黄",
-    "hex": "#DAA45A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "珊瑚红",
-    "hex": "#F04A3A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "珍珠灰",
-    "hex": "#E4DFD7",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "珠母灰",
-    "hex": "#64483D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "琥珀黄",
-    "hex": "#FEBA07",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "瓜瓤粉",
-    "hex": "#F9CB8B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "瓜瓤红",
-    "hex": "#F68C60",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "瓦松绿",
-    "hex": "#6E8B74",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "瓦灰",
-    "hex": "#867E76",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "瓦罐灰",
-    "hex": "#47484C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "甘草黄",
-    "hex": "#F3BF4C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "甘蔗紫",
-    "hex": "#621624",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "田园绿",
-    "hex": "#68B88E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "田螺绿",
-    "hex": "#5E665B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "电气石红",
-    "hex": "#C35691",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "甸子蓝",
-    "hex": "#10AEC2",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "白屈菜绿",
-    "hex": "#485B4D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "白芨红",
-    "hex": "#DE7897",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "百灵鸟灰",
-    "hex": "#B4A992",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "睛蓝",
-    "hex": "#5698C3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "石板灰",
-    "hex": "#624941",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "石竹紫",
-    "hex": "#63071C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "石竹红",
-    "hex": "#EE4863",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "石绿",
-    "hex": "#57C3C2",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "石蕊红",
-    "hex": "#F0C9CF",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "硫华黄",
-    "hex": "#F2CE2B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "碧螺春绿",
-    "hex": "#867018",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "碧青",
-    "hex": "#5CB3CC",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "磨石紫",
-    "hex": "#382129",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "秋波蓝",
-    "hex": "#8ABCD1",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "秋海棠红",
-    "hex": "#EC2B24",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "秋葵黄",
-    "hex": "#EED045",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "穹灰",
-    "hex": "#C4D7D6",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "竹篁绿",
-    "hex": "#B9DEC9",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "竹绿",
-    "hex": "#1BA784",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "筍皮棕",
-    "hex": "#732E12",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "篾黄",
-    "hex": "#F7DE98",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "米色",
-    "hex": "#F9DFCD",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "粉团花红",
-    "hex": "#EC9BAD",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "粉白",
-    "hex": "#FBF2E3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "粉红",
-    "hex": "#F2B9B2",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "粉绿",
-    "hex": "#83CBAC",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "粽叶绿",
-    "hex": "#876818",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "素馨黄",
-    "hex": "#FCCB16",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "紫灰",
-    "hex": "#5D3F51",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "紫荆红",
-    "hex": "#EE2C79",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "红汞红",
-    "hex": "#F23E23",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "绀紫",
-    "hex": "#461629",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "绀红",
-    "hex": "#A6522C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "绿灰",
-    "hex": "#314A43",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "美人焦橙",
-    "hex": "#FA7E23",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "美蝶绿",
-    "hex": "#12AA9C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "群青",
-    "hex": "#1772B4",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "羽扇豆蓝",
-    "hex": "#619AC3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "翠绿",
-    "hex": "#20A162",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "翠蓝",
-    "hex": "#1E9EB3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "肉色",
-    "hex": "#F7C173",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "胆矾蓝",
-    "hex": "#0F95B0",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "胭脂红",
-    "hex": "#F03F24",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "舌红",
-    "hex": "#F19790",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "艳红",
-    "hex": "#ED5A65",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "艾绿",
-    "hex": "#CAD3C3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "艾背绿",
-    "hex": "#DFECD5",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芍药耕红",
-    "hex": "#EBA0B3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芒果棕",
-    "hex": "#954416",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芒果黄",
-    "hex": "#DDC871",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芓紫",
-    "hex": "#894276",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芙蓉红",
-    "hex": "#F9723D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芝兰紫",
-    "hex": "#E9CCD3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芡食白",
-    "hex": "#E2E1E4",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芥花紫",
-    "hex": "#983680",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芥黄",
-    "hex": "#D9A40E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芦灰",
-    "hex": "#856D72",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芦穗灰",
-    "hex": "#BDAEAD",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芦苇绿",
-    "hex": "#B7D07A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "花青",
-    "hex": "#2376B7",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "芽绿",
-    "hex": "#96C24E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "苋菜紫",
-    "hex": "#9B1E64",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "苋菜红",
-    "hex": "#A61B29",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "苍绿",
-    "hex": "#223E36",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "苍蓝",
-    "hex": "#134857",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "苍蝇灰",
-    "hex": "#36282B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "苍黄",
-    "hex": "#806332",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "苔绿",
-    "hex": "#887322",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "苷蓝绿",
-    "hex": "#1F2623",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "苹果红",
-    "hex": "#F15642",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "苹果绿",
-    "hex": "#BACF65",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "茄皮紫",
-    "hex": "#2D0C13",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "茉莉黄",
-    "hex": "#F8DF72",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "茶花红",
-    "hex": "#EE3F4D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "茶褐",
-    "hex": "#5D3D21",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "草原远绿",
-    "hex": "#9ABEAF",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "草灰绿",
-    "hex": "#8E804B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "草珠红",
-    "hex": "#F8EBE6",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "草茉莉红",
-    "hex": "#EF475D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "草莓红",
-    "hex": "#EF6F48",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "草黄",
-    "hex": "#D2B42C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "荔肉白",
-    "hex": "#F2E6CE",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "荷叶绿",
-    "hex": "#1A6840",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "荷花白",
-    "hex": "#FBECDE",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "荸荠紫",
-    "hex": "#411C35",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "莓红",
-    "hex": "#C45A65",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "莓酱红",
-    "hex": "#FA5D19",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "莱阳梨黄",
-    "hex": "#815F25",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "莲子白",
-    "hex": "#E5D3AA",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "莲瓣红",
-    "hex": "#EA517F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "莽丛绿",
-    "hex": "#141E1B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "菊蕾白",
-    "hex": "#E9DDB6",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "菜头紫",
-    "hex": "#951C48",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "菠根红",
-    "hex": "#D13C74",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "菠萝红",
-    "hex": "#FC7930",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "菱锰红",
-    "hex": "#D276A3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "萝兰紫",
-    "hex": "#C08EAF",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "萝卜红",
-    "hex": "#F13C22",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "落英淡粉",
-    "hex": "#F9E8D0",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "落霞红",
-    "hex": "#CF4813",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "葛巾紫",
-    "hex": "#7E2065",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "葡萄紫",
-    "hex": "#4C1F24",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "葡萄酒红",
-    "hex": "#62102E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "葡萄酱紫",
-    "hex": "#5A1216",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "葱绿",
-    "hex": "#40A070",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "葵扇黄",
-    "hex": "#F8D86A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蒽油绿",
-    "hex": "#373834",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蒿黄",
-    "hex": "#DFC243",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蓝绿",
-    "hex": "#12A182",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蓟粉红",
-    "hex": "#E6D2D5",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蔚蓝",
-    "hex": "#29B7CB",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蔻梢绿",
-    "hex": "#5DBE8A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蕈紫",
-    "hex": "#815C94",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "薄荷绿",
-    "hex": "#207F4C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "藏花红",
-    "hex": "#EC2D7A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "藕荷",
-    "hex": "#EDC3AE",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "藤萝紫",
-    "hex": "#8076A3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "藤黄",
-    "hex": "#FED110",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "虎皮黄",
-    "hex": "#EAAD1A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "虹蓝",
-    "hex": "#2177B8",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "虾壳青",
-    "hex": "#869D9D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蚌肉白",
-    "hex": "#F9F1DB",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蛋壳黄",
-    "hex": "#F8C387",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蛋白石绿",
-    "hex": "#579572",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蛙绿",
-    "hex": "#45B787",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蛛网灰",
-    "hex": "#B7A091",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蜜黄",
-    "hex": "#FBB957",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蜴蜊绿",
-    "hex": "#835E1D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蜻蜓红",
-    "hex": "#F1441D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蜻蜓蓝",
-    "hex": "#3B818C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蝶翅蓝",
-    "hex": "#4E7CA1",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蝶黄",
-    "hex": "#E2D849",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "螺甸紫",
-    "hex": "#74759B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蟹壳灰",
-    "hex": "#695E45",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蟹壳红",
-    "hex": "#F27635",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蟹壳绿",
-    "hex": "#513C20",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蟹蝥红",
-    "hex": "#B14B28",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "蟾绿",
-    "hex": "#3C9566",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "覆盆子红",
-    "hex": "#AC1F18",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "谷鞘红",
-    "hex": "#F17666",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "谷黄",
-    "hex": "#E8B004",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "豆汁黄",
-    "hex": "#F8E8C1",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "豆沙",
-    "hex": "#481E1C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "豆蔻紫",
-    "hex": "#AD6598",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "豇豆红",
-    "hex": "#ED9DB2",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "象牙白",
-    "hex": "#FFFEF8",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "象牙黄",
-    "hex": "#F0D695",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "貂紫",
-    "hex": "#5D3131",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "赭石",
-    "hex": "#862617",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "软木黄",
-    "hex": "#DE9E44",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "远天蓝",
-    "hex": "#D0DFE6",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "远山紫",
-    "hex": "#CCCCD6",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "酢酱草红",
-    "hex": "#C5708B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "酪黄",
-    "hex": "#F6DEAD",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "酱棕",
-    "hex": "#5A1F1B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "酱紫",
-    "hex": "#4D1018",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "醉瓜肉",
-    "hex": "#DB8540",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "釉蓝",
-    "hex": "#1781B5",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "野菊紫",
-    "hex": "#525288",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "野葡萄紫",
-    "hex": "#302F4B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "野蔷薇红",
-    "hex": "#FB9968",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "金叶黄",
-    "hex": "#FFA60F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "金瓜黄",
-    "hex": "#FCD217",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "金盏黄",
-    "hex": "#FCC307",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "金莲花橙",
-    "hex": "#F86B1D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "金莺黄",
-    "hex": "#F4A83A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "金驼",
-    "hex": "#E46828",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "金鱼紫",
-    "hex": "#500A16",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "金黄",
-    "hex": "#F27B1F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "钢蓝",
-    "hex": "#0F1423",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "钢青",
-    "hex": "#142334",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "钴蓝",
-    "hex": "#1A94BC",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "铁棕",
-    "hex": "#D85916",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "铁水红",
-    "hex": "#F5391C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "铅灰",
-    "hex": "#BBB5AC",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "铜绿",
-    "hex": "#2BAE85",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "银朱",
-    "hex": "#F43E06",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "银灰",
-    "hex": "#918072",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "银白",
-    "hex": "#F1F0ED",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "银鱼白",
-    "hex": "#CDD1D3",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "银鼠灰",
-    "hex": "#B5AA90",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "锌灰",
-    "hex": "#7A7374",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "锦葵红",
-    "hex": "#BF3553",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "镍灰",
-    "hex": "#9FA39A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "长石灰",
-    "hex": "#363433",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "闪蓝",
-    "hex": "#7CABB1",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "陶瓷红",
-    "hex": "#E16723",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "隐红灰",
-    "hex": "#B598A1",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "雁灰",
-    "hex": "#80766E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "雄黄",
-    "hex": "#FF9900",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "雅梨黄",
-    "hex": "#FBC82F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "雪白",
-    "hex": "#FFFEF9",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "霁青",
-    "hex": "#63BBD0",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "霞光红",
-    "hex": "#EF82A0",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "青灰",
-    "hex": "#2B333E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "青矾绿",
-    "hex": "#2C9678",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "青莲",
-    "hex": "#8B2671",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "青蛤壳紫",
-    "hex": "#BC84A8",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "靛青",
-    "hex": "#1661AB",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "颊红",
-    "hex": "#EEAA9C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "风帆黄",
-    "hex": "#DC9123",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "飞泉绿",
-    "hex": "#497568",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "飞燕草蓝",
-    "hex": "#0F59A4",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "香叶红",
-    "hex": "#F07C82",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "香水玫瑰黄",
-    "hex": "#F7DA94",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "香蕉黄",
-    "hex": "#E4BF11",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "马鞭草紫",
-    "hex": "#EDE3E7",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "驼色",
-    "hex": "#66462A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "高粱红",
-    "hex": "#C02C38",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "魏紫",
-    "hex": "#7E1671",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鱼尾灰",
-    "hex": "#5E616D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鱼肚白",
-    "hex": "#F7F4ED",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鱼鳃红",
-    "hex": "#ED3B2F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鲑鱼红",
-    "hex": "#F09C5A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鲛青",
-    "hex": "#87723E",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鲜绿",
-    "hex": "#43B244",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鲸鱼灰",
-    "hex": "#475164",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鷃蓝",
-    "hex": "#144A74",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鸡蛋黄",
-    "hex": "#FBB612",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鸢尾蓝",
-    "hex": "#158BB8",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鸥蓝",
-    "hex": "#C7D2D4",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鸽蓝",
-    "hex": "#1C2938",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鹅冠红",
-    "hex": "#D11A2D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鹅掌黄",
-    "hex": "#FBB929",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鹅血石红",
-    "hex": "#AB372F",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鹞冠紫",
-    "hex": "#621D34",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鹤灰",
-    "hex": "#4A4035",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鹤顶红",
-    "hex": "#D42517",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鹦鹉冠黄",
-    "hex": "#F6C430",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鹦鹉绿",
-    "hex": "#5BAE23",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鹿皮褐",
-    "hex": "#D99156",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鹿角棕",
-    "hex": "#E3BD8D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "麂棕",
-    "hex": "#DE7622",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "麦秆黄",
-    "hex": "#F8DF70",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "麦芽糖黄",
-    "hex": "#F9D27D",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "麦苗绿",
-    "hex": "#55BB8A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "黄昏灰",
-    "hex": "#474B4C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "黄连黄",
-    "hex": "#FCC515",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鼠背灰",
-    "hex": "#73575C",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鼠鼻红",
-    "hex": "#E3B4B8",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "鼬黄",
-    "hex": "#FCB70A",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "龙睛鱼紫",
-    "hex": "#4E2A40",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "龙睛鱼红",
-    "hex": "#EF632B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "龙葵紫",
-    "hex": "#322F3B",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "龙须红",
-    "hex": "#CC5595",
-    "rgb": null,
-    "cmyk": null
-  },
-  {
-    "name": "龟背黄",
-    "hex": "#826B48",
-    "rgb": null,
-    "cmyk": null
-  }
+ {"name":"乳白","py":"rubai","hex":"#F9F4DC","h":50,"c":11,"li":96,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[4,5,18,0]},
+ {"name":"杏仁黄","py":"xingrenhuang","hex":"#F7E8AA","h":48,"c":30,"li":91.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[3,8,30,0],"note":"上游 hex 与 RGB 字段矛盾, 此处取 hex"},
+ {"name":"茉莉黄","py":"molihuang","hex":"#F8DF72","h":49,"c":53,"li":88.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[4,13,67,0]},
+ {"name":"麦秆黄","py":"maiganhuang","hex":"#F8DF70","h":49,"c":53,"li":88.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[5,14,68,1]},
+ {"name":"油菜花黄","py":"youcaihuahuang","hex":"#FBDA41","h":49,"c":73,"li":87.5,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[2,16,84,0]},
+ {"name":"佛手黄","py":"foshouhuang","hex":"#FED71A","h":50,"c":89,"li":86.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[1,18,94,0]},
+ {"name":"篾黄","py":"miehuang","hex":"#F7DE98","h":44,"c":37,"li":89.1,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[3,16,50,0]},
+ {"name":"葵扇黄","py":"kuishanhuang","hex":"#F8D86A","h":46,"c":56,"li":87.1,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[3,17,69,0]},
+ {"name":"柠檬黄","py":"ningmenghuang","hex":"#FCD337","h":48,"c":77,"li":85.8,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,20,87,0]},
+ {"name":"金瓜黄","py":"jinguahuang","hex":"#FCD217","h":49,"c":90,"li":85.4,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,20,95,0]},
+ {"name":"藤黄","py":"tenghuang","hex":"#FFD111","h":48,"c":93,"li":85.5,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,21,94,0],"note":"上游 hex 与 RGB 字段矛盾, 此处取 hex"},
+ {"name":"酪黄","py":"laohuang","hex":"#F6DEAD","h":40,"c":29,"li":89.3,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[2,16,39,0]},
+ {"name":"香水玫瑰黄","py":"xiangshuimeiguihuang","hex":"#F7DA94","h":42,"c":39,"li":88,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[1,17,50,0]},
+ {"name":"淡密黄","py":"danmihuang","hex":"#F9D367","h":44,"c":57,"li":85.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[1,21,70,0]},
+ {"name":"大豆黄","py":"dadouhuang","hex":"#FBCD31","h":46,"c":79,"li":84.2,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,23,88,0]},
+ {"name":"素馨黄","py":"suxinhuang","hex":"#FCCB16","h":47,"c":90,"li":83.7,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,24,94,0]},
+ {"name":"向日葵黄","py":"xiangrikuihuang","hex":"#FECC11","h":47,"c":93,"li":84.1,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,24,94,0]},
+ {"name":"雅梨黄","py":"yalihuang","hex":"#FBC82F","h":45,"c":80,"li":82.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,27,88,0]},
+ {"name":"黄连黄","py":"huanglianhuang","hex":"#FCC515","h":46,"c":91,"li":82.2,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,28,94,0]},
+ {"name":"金盏黄","py":"jinzhanhuang","hex":"#FCC307","h":46,"c":96,"li":81.7,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,29,95,0]},
+ {"name":"蛋壳黄","py":"dankehuang","hex":"#F8C387","h":32,"c":44,"li":82.2,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,32,52,0]},
+ {"name":"肉色","py":"rouse","hex":"#F7C173","h":35,"c":52,"li":81.4,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,32,52,0]},
+ {"name":"鹅掌黄","py":"ezhanghuang","hex":"#FBB929","h":41,"c":82,"li":79.3,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,35,89,0]},
+ {"name":"鸡蛋黄","py":"jidanhuang","hex":"#FBB612","h":42,"c":91,"li":78.5,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,36,93,0]},
+ {"name":"鼬黄","py":"youhuang","hex":"#FCB70A","h":43,"c":95,"li":78.8,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,35,94,0]},
+ {"name":"榴萼黄","py":"liuehuang","hex":"#F9A633","h":35,"c":78,"li":74.6,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,44,84,0]},
+ {"name":"淡橘橙","py":"danjucheng","hex":"#FBA414","h":37,"c":91,"li":74.3,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,45,92,0]},
+ {"name":"枇杷黄","py":"pipahuang","hex":"#FCA106","h":38,"c":96,"li":73.7,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,47,92,0]},
+ {"name":"橙皮黄","py":"chengpihuang","hex":"#FCA104","h":38,"c":97,"li":73.7,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,47,92,0]},
+ {"name":"北瓜黄","py":"beiguahuang","hex":"#FC8C23","h":29,"c":85,"li":69.2,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,56,87,0]},
+ {"name":"杏黄","py":"xinghuang","hex":"#F28E16","h":33,"c":86,"li":68.2,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,54,92,0],"note":"上游 hex 与 RGB 字段矛盾, 此处取 hex"},
+ {"name":"雄黄","py":"xionghuang","hex":"#FF9900","h":36,"c":100,"li":72.3,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,51,91,0]},
+ {"name":"万寿菊黄","py":"wanshoujuhuang","hex":"#FB8B05","h":33,"c":96,"li":68.7,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,56,91,0]},
+ {"name":"菊蕾白","py":"juleibai","hex":"#E9DDB6","h":46,"c":20,"li":88.2,"family":"黄","wx":"土","zx":1,"role":"底","cmyk":[10,13,35,1]},
+ {"name":"秋葵黄","py":"qiukuihuang","hex":"#EED045","h":49,"c":66,"li":83.8,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[8,19,84,1]},
+ {"name":"硫华黄","py":"liuhuahuang","hex":"#F2CE2B","h":49,"c":78,"li":83.5,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[6,20,92,1]},
+ {"name":"柚黄","py":"youhuang","hex":"#F1CA17","h":49,"c":85,"li":82.4,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[6,22,92,0]},
+ {"name":"芒果黄","py":"mangguohuang","hex":"#DDC871","h":48,"c":42,"li":80.7,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[15,20,66,2]},
+ {"name":"蒿黄","py":"haohuang","hex":"#DFC243","h":49,"c":61,"li":78.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[14,22,85,2]},
+ {"name":"姜黄","py":"jianghuang","hex":"#E2C027","h":49,"c":73,"li":78.5,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[12,24,95,2]},
+ {"name":"香蕉黄","py":"xiangjiaohuang","hex":"#E4BF11","h":49,"c":83,"li":78.3,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[11,25,99,1]},
+ {"name":"草黄","py":"caohuang","hex":"#D2B42C","h":49,"c":65,"li":73.9,"family":"黄","wx":"土","zx":1,"role":"强","cmyk":[17,27,94,4]},
+ {"name":"新禾绿","py":"xinhelv","hex":"#D2B116","h":49,"c":74,"li":73,"family":"黄","wx":"土","zx":1,"role":"强","cmyk":[17,29,100,4]},
+ {"name":"月灰","py":"yuehui","hex":"#B7AE8F","h":47,"c":16,"li":71.1,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[28,26,45,7]},
+ {"name":"淡灰绿","py":"danhuilv","hex":"#AD9E5F","h":48,"c":31,"li":65.1,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[30,30,70,12],"note":"上游 hex 与 RGB 字段矛盾, 此处取 hex"},
+ {"name":"草灰绿","py":"caohuilv","hex":"#8E804B","h":47,"c":26,"li":53.7,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[38,38,76,24]},
+ {"name":"苔绿","py":"tailv","hex":"#887322","h":48,"c":40,"li":49,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[36,42,100,29]},
+ {"name":"碧螺春绿","py":"biluochunlv","hex":"#867018","h":48,"c":43,"li":47.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[36,42,100,30]},
+ {"name":"燕羽灰","py":"yanyuhui","hex":"#685E48","h":41,"c":13,"li":40.3,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[47,47,65,42]},
+ {"name":"蟹壳灰","py":"xiekehui","hex":"#695E45","h":42,"c":14,"li":40.3,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[46,47,69,42]},
+ {"name":"潭水绿","py":"tanshuilv","hex":"#645822","h":49,"c":26,"li":37.5,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[48,48,100,45]},
+ {"name":"橄榄绿","py":"ganlanlv","hex":"#5E5314","h":51,"c":29,"li":35.2,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[50,50,10,48]},
+ {"name":"蚌肉白","py":"bangroubai","hex":"#F9F1DB","h":44,"c":12,"li":95.2,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[2,6,18,0]},
+ {"name":"豆汁黄","py":"douzhihuang","hex":"#F8E8C1","h":43,"c":22,"li":92.4,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[3,10,31,0]},
+ {"name":"淡茧黄","py":"danjianhuang","hex":"#F9D770","h":45,"c":54,"li":87,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[1,19,66,0]},
+ {"name":"乳鸭黄","py":"ruyahuang","hex":"#FFC90C","h":47,"c":95,"li":83.5,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,26,94,0]},
+ {"name":"荔肉白","py":"liroubai","hex":"#F2E6CE","h":40,"c":14,"li":91.7,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[5,11,22,0]},
+ {"name":"象牙黄","py":"xiangyahuang","hex":"#F0D695","h":43,"c":36,"li":86.4,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[5,19,50,0]},
+ {"name":"炒米黄","py":"chaomihuang","hex":"#F4CE69","h":44,"c":55,"li":84.2,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[3,23,69,0]},
+ {"name":"鹦鹉冠黄","py":"yingwuguanhuang","hex":"#F6C430","h":45,"c":78,"li":81.4,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[1,28,89,0]},
+ {"name":"木瓜黄","py":"muguahuang","hex":"#F9C116","h":45,"c":89,"li":80.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,30,95,0]},
+ {"name":"浅烙黄","py":"qianlaohuang","hex":"#F9BD10","h":45,"c":91,"li":79.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,32,95,0]},
+ {"name":"莲子白","py":"lianzibai","hex":"#E5D3AA","h":42,"c":23,"li":85.1,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[11,18,39,1]},
+ {"name":"谷黄","py":"guhuang","hex":"#E8B004","h":45,"c":89,"li":75,"family":"黄","wx":"土","zx":1,"role":"强","cmyk":[5,35,99,0]},
+ {"name":"栀子黄","py":"zhizihuang","hex":"#EBB10D","h":44,"c":87,"li":75.5,"family":"黄","wx":"土","zx":1,"role":"强","cmyk":[3,36,99,0]},
+ {"name":"芥黄","py":"jiehuang","hex":"#D9A40E","h":44,"c":80,"li":70.4,"family":"黄","wx":"土","zx":1,"role":"强","cmyk":[11,39,100,2]},
+ {"name":"银鼠灰","py":"yinshuhui","hex":"#B5AA90","h":42,"c":15,"li":69.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[28,27,43,8]},
+ {"name":"尘灰","py":"chenhui","hex":"#B6A476","h":43,"c":25,"li":67.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[26,31,57,10]},
+ {"name":"枯绿","py":"kulv","hex":"#B78D12","h":45,"c":65,"li":60.9,"family":"黄","wx":"土","zx":1,"role":"强","cmyk":[21,43,100,11]},
+ {"name":"鲛青","py":"jiaoqing","hex":"#87723E","h":43,"c":29,"li":48.9,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[35,44,80,30]},
+ {"name":"粽叶绿","py":"zongyelv","hex":"#876818","h":43,"c":44,"li":45.8,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[32,50,100,31]},
+ {"name":"灰绿","py":"huilv","hex":"#8A6913","h":43,"c":47,"li":46.4,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[31,51,100,30]},
+ {"name":"鹤灰","py":"hehui","hex":"#4A4035","h":31,"c":8,"li":27.8,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[52,56,64,62]},
+ {"name":"淡松烟","py":"dansongyan","hex":"#4D4030","h":33,"c":11,"li":28,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[48,58,70,62]},
+ {"name":"暗海水绿","py":"anhaishuilv","hex":"#584717","h":44,"c":25,"li":31,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[45,56,100,56]},
+ {"name":"棕榈绿","py":"zonglvlv","hex":"#5B4913","h":45,"c":28,"li":31.9,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[45,55,100,54]},
+ {"name":"米色","py":"mise","hex":"#F9E9CD","h":38,"c":17,"li":92.9,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[1,11,24,0],"note":"上游 hex 与 RGB 字段矛盾, 此处取 hex"},
+ {"name":"淡肉色","py":"danrouse","hex":"#F8E0B0","h":40,"c":28,"li":90,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[1,15,38,0]},
+ {"name":"麦芽糖黄","py":"maiyatanghuang","hex":"#F9D27D","h":41,"c":49,"li":85.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,23,59,0]},
+ {"name":"琥珀黄","py":"hupohuang","hex":"#FEBA07","h":43,"c":97,"li":79.7,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,34,93,0]},
+ {"name":"甘草黄","py":"gancaohuang","hex":"#F3BF4C","h":41,"c":65,"li":80.1,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[1,31,79,0]},
+ {"name":"初熟杏黄","py":"chushuxinghuang","hex":"#F8BC31","h":42,"c":78,"li":79.7,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[0,33,83,0]},
+ {"name":"浅驼色","py":"qiantuose","hex":"#E2C17C","h":41,"c":40,"li":79.5,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[10,27,59,1]},
+ {"name":"沙石黄","py":"shashihuang","hex":"#E5B751","h":41,"c":58,"li":76.8,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[7,32,78,1]},
+ {"name":"虎皮黄","py":"hupihuang","hex":"#EAAD1A","h":42,"c":82,"li":74.5,"family":"黄","wx":"土","zx":1,"role":"强","cmyk":[3,38,97,0]},
+ {"name":"土黄","py":"tuhuang","hex":"#D6A01D","h":42,"c":73,"li":69.1,"family":"黄","wx":"土","zx":1,"role":"强","cmyk":[12,41,98,2]},
+ {"name":"百灵鸟灰","py":"bailingniaohui","hex":"#B4A992","h":41,"c":13,"li":69.6,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[28,28,41,9]},
+ {"name":"山鸡黄","py":"shanjihuang","hex":"#B78B26","h":42,"c":57,"li":60.5,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[21,44,97,11]},
+ {"name":"龟背黄","py":"guibeihuang","hex":"#826B48","h":36,"c":23,"li":46.6,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[35,47,71,33]},
+ {"name":"苍黄","py":"canghuang","hex":"#806332","h":38,"c":31,"li":43.9,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[34,52,85,35]},
+ {"name":"莱阳梨黄","py":"laiyanglihuang","hex":"#815F25","h":38,"c":36,"li":42.7,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[32,56,96,34]},
+ {"name":"蜴蜊绿","py":"yililv","hex":"#835E1D","h":38,"c":40,"li":42.6,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[31,57,100,33]},
+ {"name":"松鼠灰","py":"songshuhui","hex":"#4F4032","h":29,"c":11,"li":28.3,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[46,59,68,61]},
+ {"name":"橄榄灰","py":"ganlanhui","hex":"#503E2A","h":32,"c":15,"li":27.6,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[44,61,76,62]},
+ {"name":"蟹壳绿","py":"xiekelv","hex":"#513C20","h":34,"c":19,"li":27,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[43,63,88,61]},
+ {"name":"古铜绿","py":"gutonglv","hex":"#533C1B","h":35,"c":22,"li":27.2,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[42,64,94,60]},
+ {"name":"焦茶绿","py":"jiaochalv","hex":"#553B18","h":34,"c":24,"li":27.1,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[41,66,94,60]},
+ {"name":"粉白","py":"fenbai","hex":"#FBF2E3","h":38,"c":9,"li":95.8,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[1,7,13,0]},
+ {"name":"落英淡粉","py":"luoyingdanfen","hex":"#F9E8D0","h":35,"c":16,"li":92.8,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[1,12,22,0]},
+ {"name":"瓜瓤粉","py":"guarangfen","hex":"#F9CB8B","h":35,"c":43,"li":84.3,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,27,51,0]},
+ {"name":"蜜黄","py":"mihuang","hex":"#FBB957","h":36,"c":64,"li":79.6,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,36,72,0]},
+ {"name":"金叶黄","py":"jinyehuang","hex":"#FFA60F","h":38,"c":94,"li":75.2,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,44,91,0]},
+ {"name":"金莺黄","py":"jinyinghuang","hex":"#F4A83A","h":35,"c":73,"li":74.5,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,43,82,0]},
+ {"name":"鹿角棕","py":"lujiaozong","hex":"#E3BD8D","h":33,"c":34,"li":78.8,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[8,31,50,1]},
+ {"name":"凋叶棕","py":"diaoyezong","hex":"#E7A23F","h":35,"c":66,"li":71.7,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[2,44,83,0]},
+ {"name":"玳瑁黄","py":"daimaohuang","hex":"#DAA45A","h":35,"c":50,"li":71,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[10,41,72,1]},
+ {"name":"软木黄","py":"ruanmuhuang","hex":"#DE9E44","h":35,"c":60,"li":69.8,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[7,45,82,1]},
+ {"name":"风帆黄","py":"fengfanhuang","hex":"#DC9123","h":36,"c":73,"li":66.2,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[6,51,95,1]},
+ {"name":"桂皮淡棕","py":"guipidanzong","hex":"#C09351","h":36,"c":44,"li":63.9,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[19,44,75,7]},
+ {"name":"猴毛灰","py":"houmaohui","hex":"#97846C","h":33,"c":17,"li":56.3,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[32,40,53,22]},
+ {"name":"山鸡褐","py":"shanjihe","hex":"#986524","h":34,"c":45,"li":47.1,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[27,60,97,21]},
+ {"name":"驼色","py":"tuose","hex":"#66462A","h":28,"c":24,"li":32.6,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[37,65,84,49]},
+ {"name":"茶褐","py":"chahe","hex":"#5D3D21","h":28,"c":24,"li":28.8,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[38,69,90,54]},
+ {"name":"古铜褐","py":"gutonghe","hex":"#5C3719","h":27,"c":26,"li":27,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[37,74,96,55]},
+ {"name":"荷花白","py":"hehuabai","hex":"#FBECDE","h":29,"c":11,"li":94.2,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[0,10,14,0]},
+ {"name":"玫瑰粉","py":"meiguifen","hex":"#F8B37F","h":26,"c":47,"li":78.3,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,40,52,0]},
+ {"name":"橘橙","py":"jucheng","hex":"#F97D1C","h":26,"c":87,"li":65.7,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,62,88,0]},
+ {"name":"美人焦橙","py":"meirenjiaocheng","hex":"#FA7E23","h":25,"c":84,"li":66,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,62,85,0]},
+ {"name":"润红","py":"runhong","hex":"#F7CDBC","h":17,"c":23,"li":85.5,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,28,25,0]},
+ {"name":"淡桃红","py":"dantaohong","hex":"#F6CEC1","h":15,"c":21,"li":85.8,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,28,22,0]},
+ {"name":"海螺橙","py":"hailuocheng","hex":"#F0945D","h":22,"c":58,"li":69.8,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,53,65,0]},
+ {"name":"桃红","py":"taohong","hex":"#F0ADA0","h":10,"c":31,"li":76.6,"family":"粉","wx":"火","zx":0,"role":"主","cmyk":[0,44,32,0]},
+ {"name":"颊红","py":"jiahong","hex":"#EEAA9C","h":10,"c":32,"li":75.7,"family":"粉","wx":"火","zx":0,"role":"主","cmyk":[0,45,34,0]},
+ {"name":"淡罂粟红","py":"danyingsuhong","hex":"#EEA08C","h":12,"c":38,"li":73,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,49,41,0]},
+ {"name":"晨曦红","py":"chenxihong","hex":"#EA8958","h":20,"c":57,"li":66.6,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,58,67,0]},
+ {"name":"蟹壳红","py":"xiekehong","hex":"#F27635","h":21,"c":74,"li":63.4,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,65,80,0]},
+ {"name":"金莲花橙","py":"jinlianhuacheng","hex":"#F86B1D","h":21,"c":86,"li":62.1,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,69,86,0]},
+ {"name":"草莓红","py":"caomeihong","hex":"#EF6F48","h":14,"c":65,"li":61.8,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,69,70,0]},
+ {"name":"龙睛鱼红","py":"longjingyuhong","hex":"#EF632B","h":17,"c":77,"li":59.4,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,72,82,0]},
+ {"name":"蜻蜓红","py":"qingtinghong","hex":"#F1441D","h":11,"c":83,"li":55,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,81,84,0]},
+ {"name":"大红","py":"dahong","hex":"#F04B22","h":12,"c":81,"li":55.8,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,80,83,0]},
+ {"name":"柿红","py":"shihong","hex":"#F2481B","h":13,"c":84,"li":55.7,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,80,85,0]},
+ {"name":"榴花红","py":"liuhuahong","hex":"#F34718","h":13,"c":86,"li":55.7,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,80,85,0]},
+ {"name":"银朱","py":"yinzhu","hex":"#F43E06","h":14,"c":93,"li":54.8,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,83,87,0]},
+ {"name":"朱红","py":"zhuhong","hex":"#ED5126","h":13,"c":78,"li":56.1,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,78,83,0]},
+ {"name":"鲑鱼红","py":"guiyuhong","hex":"#F09C5A","h":26,"c":59,"li":71.6,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,50,68,0]},
+ {"name":"金黄","py":"jinhuang","hex":"#F26B1F","h":22,"c":83,"li":61.2,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[5,69,87,0],"note":"上游 hex 与 RGB 字段矛盾, 此处取 hex"},
+ {"name":"鹿皮褐","py":"lupihe","hex":"#D99156","h":27,"c":51,"li":66.3,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[7,52,71,1]},
+ {"name":"醉瓜肉","py":"zuiguarou","hex":"#DB8540","h":27,"c":61,"li":63.5,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[4,57,82,1]},
+ {"name":"麂棕","py":"jizong","hex":"#DE7622","h":27,"c":74,"li":60.4,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,64,93,0]},
+ {"name":"淡银灰","py":"danyinhui","hex":"#C1B2A3","h":30,"c":12,"li":73.4,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[22,28,34,6]},
+ {"name":"淡赭","py":"danzhe","hex":"#BE7E4A","h":27,"c":45,"li":58.4,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[18,57,76,6]},
+ {"name":"槟榔综","py":"binglangzong","hex":"#C1651A","h":27,"c":65,"li":52.6,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[14,69,100,4]},
+ {"name":"银灰","py":"yinhui","hex":"#918072","h":27,"c":12,"li":54.7,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[34,42,46,23]},
+ {"name":"海鸥灰","py":"haiouhui","hex":"#9A8878","h":28,"c":13,"li":57.9,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[42,40,46,20]},
+ {"name":"淡咖啡","py":"dankafei","hex":"#945833","h":23,"c":38,"li":43.5,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[27,69,85,22]},
+ {"name":"岩石棕","py":"yanshizong","hex":"#964D22","h":22,"c":45,"li":41.1,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[26,76,97,20]},
+ {"name":"芒果棕","py":"mangguozong","hex":"#954416","h":22,"c":50,"li":38.9,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[25,80,100,20]},
+ {"name":"石板灰","py":"shibanhui","hex":"#624941","h":15,"c":13,"li":33.4,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[39,60,58,51]},
+ {"name":"珠母灰","py":"zhumuhui","hex":"#64483D","h":17,"c":15,"li":33.3,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[38,63,63,50]},
+ {"name":"丁香棕","py":"dingxiangzong","hex":"#71361D","h":18,"c":33,"li":30,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[32,83,96,41]},
+ {"name":"咖啡","py":"kafei","hex":"#753117","h":17,"c":37,"li":29.5,"family":"橙","wx":"火","zx":0,"role":"文","cmyk":[30,87,100,38]},
+ {"name":"筍皮棕","py":"sunpizong","hex":"#732E12","h":17,"c":38,"li":28.5,"family":"橙","wx":"火","zx":0,"role":"文","cmyk":[30,89,100,39]},
+ {"name":"燕颔红","py":"yanhanhong","hex":"#FC6315","h":20,"c":91,"li":61.4,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,72,86,0]},
+ {"name":"玉粉红","py":"yufenhong","hex":"#E8B49A","h":20,"c":31,"li":77.4,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[3,38,39,0]},
+ {"name":"金驼","py":"jintuo","hex":"#E46828","h":20,"c":74,"li":58.6,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,70,87,0]},
+ {"name":"铁棕","py":"tiezong","hex":"#D85916","h":21,"c":76,"li":53.8,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,76,97,0]},
+ {"name":"蛛网灰","py":"zhuwanghui","hex":"#B7A091","h":24,"c":15,"li":67.5,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[23,35,38,10]},
+ {"name":"淡可可棕","py":"dankekezong","hex":"#B7511D","h":20,"c":60,"li":47,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[16,77,100,6]},
+ {"name":"中红灰","py":"zhonghonghui","hex":"#8B614D","h":19,"c":24,"li":45,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[31,63,66,31]},
+ {"name":"淡土黄","py":"dantuhuang","hex":"#8C4B31","h":17,"c":36,"li":39.3,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[28,76,82,26]},
+ {"name":"淡豆沙","py":"dandousha","hex":"#873D24","h":15,"c":39,"li":35.2,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[28,83,92,28]},
+ {"name":"椰壳棕","py":"yekezong","hex":"#883A1E","h":16,"c":42,"li":34.7,"family":"橙","wx":"火","zx":0,"role":"文","cmyk":[27,85,98,27]},
+ {"name":"淡铁灰","py":"dantiehui","hex":"#5B423A","h":15,"c":13,"li":30.5,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[40,64,61,56]},
+ {"name":"中灰驼","py":"zhonghuituo","hex":"#603D30","h":16,"c":19,"li":29.5,"family":"褐","wx":"土","zx":0,"role":"文","cmyk":[37,72,72,52]},
+ {"name":"淡栗棕","py":"danlizong","hex":"#673424","h":14,"c":26,"li":28,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[34,82,85,47]},
+ {"name":"可可棕","py":"kekezong","hex":"#652B1C","h":12,"c":29,"li":25.5,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[33,89,92,48]},
+ {"name":"柞叶棕","py":"zhayezong","hex":"#692A1B","h":12,"c":31,"li":26,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[32,90,95,45]},
+ {"name":"野蔷薇红","py":"yeqiangweihong","hex":"#FB9968","h":20,"c":58,"li":72.4,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,53,59,0]},
+ {"name":"菠萝红","py":"boluohong","hex":"#FC7930","h":21,"c":80,"li":65.4,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,65,79,0]},
+ {"name":"藕荷","py":"ouhe","hex":"#EDC3AE","h":20,"c":25,"li":81.9,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[2,31,31,0]},
+ {"name":"陶瓷红","py":"taocihong","hex":"#E16723","h":21,"c":75,"li":57.9,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,70,91,0]},
+ {"name":"晓灰","py":"xiaohui","hex":"#D4C4B7","h":27,"c":11,"li":80.1,"family":"橙","wx":"火","zx":0,"role":"底","cmyk":[16,23,27,2]},
+ {"name":"余烬红","py":"yujinhong","hex":"#CF7543","h":21,"c":55,"li":58.4,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[9,64,78,1]},
+ {"name":"火砖红","py":"huozhuanhong","hex":"#CD6227","h":21,"c":65,"li":53.9,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[8,72,93,1]},
+ {"name":"火泥棕","py":"huonizong","hex":"#AA6A4C","h":19,"c":37,"li":51.1,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[22,64,71,12]},
+ {"name":"绀红","py":"ganhong","hex":"#A6522C","h":19,"c":48,"li":44.7,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[20,76,92,9]},
+ {"name":"橡树棕","py":"xiangshuzong","hex":"#773D31","h":10,"c":27,"li":32.9,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[31,79,77,37]},
+ {"name":"海报灰","py":"haibaohui","hex":"#483332","h":3,"c":9,"li":23.6,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[45,68,57,66]},
+ {"name":"玫瑰灰","py":"meiguihui","hex":"#4B2E2B","h":6,"c":13,"li":22.4,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[41,76,64,65],"note":"上游 hex 与 RGB 字段矛盾, 此处取 hex"},
+ {"name":"火山棕","py":"huoshanzong","hex":"#482522","h":5,"c":15,"li":19.3,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[41,84,71,67]},
+ {"name":"豆沙","py":"dousha","hex":"#481E1C","h":3,"c":17,"li":17.4,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[40,92,78,66]},
+ {"name":"淡米粉","py":"danmifen","hex":"#FBEEE2","h":29,"c":10,"li":94.8,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[0,9,12,0]},
+ {"name":"初桃粉红","py":"chutaofenhong","hex":"#F6DCCE","h":21,"c":16,"li":89.5,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[0,19,19,0]},
+ {"name":"介壳淡粉红","py":"jieqiaodanfenhong","hex":"#F7CFBA","h":21,"c":24,"li":86,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,27,27,0]},
+ {"name":"淡藏花红","py":"dancanghuahong","hex":"#F6AD8F","h":17,"c":40,"li":77,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,43,43,0]},
+ {"name":"瓜瓤红","py":"guaranghong","hex":"#F68C60","h":18,"c":59,"li":68.9,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,58,61,0]},
+ {"name":"芙蓉红","py":"furonghong","hex":"#F9723D","h":17,"c":74,"li":63.8,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,67,74,0]},
+ {"name":"莓酱红","py":"meijianghong","hex":"#FA5D19","h":18,"c":88,"li":60.1,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[0,74,85,0]},
+ {"name":"法螺红","py":"faluohong","hex":"#EE8055","h":17,"c":60,"li":65.2,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[0,62,66,0]},
+ {"name":"落霞红","py":"luoxiahong","hex":"#CF4813","h":17,"c":74,"li":49.4,"family":"橙","wx":"火","zx":0,"role":"强","cmyk":[4,82,99,0]},
+ {"name":"淡玫瑰灰","py":"danmeiguihui","hex":"#B89485","h":18,"c":20,"li":64.2,"family":"褐","wx":"土","zx":0,"role":"主","cmyk":[21,43,43,9]},
+ {"name":"蟹蝥红","py":"xiemaohong","hex":"#B14B28","h":15,"c":54,"li":45,"family":"橙","wx":"火","zx":0,"role":"主","cmyk":[18,80,92,7]},
+ {"name":"火岩棕","py":"huoyanzong","hex":"#863020","h":9,"c":40,"li":32.5,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[27,91,95,28]},
+ {"name":"赭石","py":"zheshi","hex":"#862617","h":8,"c":44,"li":30.7,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[27,96,100,27]},
+ {"name":"暗驼棕","py":"antuozong","hex":"#592620","h":6,"c":22,"li":22.4,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[36,90,82,56]},
+ {"name":"酱棕","py":"jiangzong","hex":"#5A1F1B","h":4,"c":25,"li":21,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[35,96,88,55]},
+ {"name":"栗棕","py":"lizong","hex":"#5C1E19","h":4,"c":26,"li":21.1,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[34,98,91,53]},
+ {"name":"洋水仙红","py":"yangshuixianhong","hex":"#F4C7BA","h":13,"c":23,"li":83.8,"family":"粉","wx":"火","zx":0,"role":"主","cmyk":[0,31,24,0]},
+ {"name":"谷鞘红","py":"guqiaohong","hex":"#F17666","h":7,"c":55,"li":63.8,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,67,55,0]},
+ {"name":"苹果红","py":"pingguohong","hex":"#F15642","h":7,"c":69,"li":57.8,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,77,69,0]},
+ {"name":"铁水红","py":"tieshuihong","hex":"#F5391C","h":8,"c":85,"li":54.5,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,84,82,0]},
+ {"name":"桂红","py":"guihong","hex":"#F25A47","h":7,"c":67,"li":58.6,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,76,67,0]},
+ {"name":"极光红","py":"jiguanghong","hex":"#F33B1F","h":8,"c":83,"li":54.3,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,84,82,0]},
+ {"name":"粉红","py":"fenhong","hex":"#F2B9B2","h":7,"c":25,"li":80.1,"family":"粉","wx":"火","zx":0,"role":"主","cmyk":[0,38,25,0]},
+ {"name":"舌红","py":"shehong","hex":"#F19790","h":4,"c":38,"li":71.5,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,53,36,0]},
+ {"name":"曲红","py":"quhong","hex":"#F05A46","h":7,"c":67,"li":58.3,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,76,68,0]},
+ {"name":"红汞红","py":"honggonghong","hex":"#F23E23","h":8,"c":81,"li":54.5,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,83,81,0]},
+ {"name":"淡绯","py":"danfei","hex":"#F2CAC9","h":1,"c":16,"li":84.7,"family":"粉","wx":"火","zx":0,"role":"底","cmyk":[0,29,16,0]},
+ {"name":"无花果红","py":"wuhuaguohong","hex":"#EFAFAD","h":2,"c":26,"li":77.3,"family":"粉","wx":"火","zx":0,"role":"主","cmyk":[0,43,24,0]},
+ {"name":"榴子红","py":"liuzihong","hex":"#F1908C","h":2,"c":40,"li":69.9,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,57,36,0]},
+ {"name":"胭脂红","py":"yanzhihong","hex":"#F03F24","h":8,"c":80,"li":54.2,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,83,81,0]},
+ {"name":"合欢红","py":"hehuanhong","hex":"#F0A1A8","h":355,"c":31,"li":74.1,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,50,23,0]},
+ {"name":"春梅红","py":"chunmeihong","hex":"#F1939C","h":354,"c":37,"li":70.8,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,56,27,0]},
+ {"name":"香叶红","py":"xiangyehong","hex":"#F07C82","h":357,"c":45,"li":65.4,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,65,38,0]},
+ {"name":"珊瑚红","py":"shanhuhong","hex":"#F04A3A","h":5,"c":71,"li":55.8,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,80,72,0]},
+ {"name":"萝卜红","py":"luobohong","hex":"#F13C22","h":8,"c":81,"li":54.1,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,84,82,0]},
+ {"name":"淡茜红","py":"danqianhong","hex":"#E77C8E","h":350,"c":42,"li":64.4,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,65,29,0]},
+ {"name":"艳红","py":"yanhong","hex":"#ED5A65","h":356,"c":58,"li":58.3,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,77,49,0]},
+ {"name":"淡菽红","py":"danshuhong","hex":"#ED4845","h":1,"c":66,"li":55.1,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,81,66,0]},
+ {"name":"鱼鳃红","py":"yusaihong","hex":"#ED3B2F","h":4,"c":75,"li":53.3,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,84,76,0]},
+ {"name":"樱桃红","py":"yingtaohong","hex":"#ED3321","h":5,"c":80,"li":52.4,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,86,82,0]},
+ {"name":"淡蕊香红","py":"danruixianghong","hex":"#EE4866","h":349,"c":65,"li":55.9,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,82,44,0]},
+ {"name":"石竹红","py":"shizhuhong","hex":"#EE4863","h":350,"c":65,"li":55.8,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,82,46,0]},
+ {"name":"草茉莉红","py":"caomolihong","hex":"#EF475D","h":352,"c":66,"li":55.7,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,82,50,0]},
+ {"name":"茶花红","py":"chahuahong","hex":"#EE3F4D","h":355,"c":69,"li":54.3,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,84,60,0]},
+ {"name":"枸枢红","py":"goushuhong","hex":"#ED3333","h":0,"c":73,"li":52.5,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,86,74,0]},
+ {"name":"秋海棠红","py":"qiuhaitanghong","hex":"#EC2B24","h":2,"c":78,"li":51.5,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,88,81,0]},
+ {"name":"丽春红","py":"lichunhong","hex":"#EB261A","h":3,"c":82,"li":50.8,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,89,84,0]},
+ {"name":"夕阳红","py":"xiyanghong","hex":"#DE2A18","h":5,"c":78,"li":48.6,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,90,90,0]},
+ {"name":"鹤顶红","py":"hedinghong","hex":"#D42517","h":4,"c":74,"li":46.2,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,92,95,0]},
+ {"name":"鹅血石红","py":"exueshihong","hex":"#AB372F","h":4,"c":49,"li":40.6,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[19,89,85,9]},
+ {"name":"覆盆子红","py":"fupenzihong","hex":"#AC1F18","h":3,"c":58,"li":37.5,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[17,98,100,8]},
+ {"name":"貂紫","py":"diaozi","hex":"#5D3131","h":0,"c":17,"li":26,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[36,81,64,54]},
+ {"name":"暗玉紫","py":"anyuzi","hex":"#5C2223","h":359,"c":23,"li":22.1,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[35,94,77,53]},
+ {"name":"栗紫","py":"lizi","hex":"#5A191B","h":358,"c":25,"li":19.8,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[35,100,85,54]},
+ {"name":"葡萄酱紫","py":"putaojiangzi","hex":"#5A1216","h":357,"c":28,"li":18.6,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[35,100,80,54]},
+ {"name":"牡丹粉红","py":"mudanfenhong","hex":"#EEA2A4","h":358,"c":30,"li":74,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,49,27,0]},
+ {"name":"山茶红","py":"shanchahong","hex":"#ED556A","h":352,"c":60,"li":57.6,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,78,44,0]},
+ {"name":"海棠红","py":"haitanghong","hex":"#F03752","h":351,"c":73,"li":53.9,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,86,55,0]},
+ {"name":"玉红","py":"yuhong","hex":"#C04851","h":356,"c":47,"li":47.5,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[13,83,62,3]},
+ {"name":"高粱红","py":"gaolianghong","hex":"#C02C38","h":355,"c":58,"li":43.2,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[11,93,77,2]},
+ {"name":"满江红","py":"manjianghong","hex":"#A7535A","h":355,"c":33,"li":45.8,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[22,76,54,12]},
+ {"name":"枣红","py":"zaohong","hex":"#7C1823","h":353,"c":39,"li":26.9,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[28,100,86,33]},
+ {"name":"葡萄紫","py":"putaozi","hex":"#4C1F24","h":353,"c":18,"li":18.6,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[39,92,67,64]},
+ {"name":"酱紫","py":"jiangzi","hex":"#4D1018","h":352,"c":24,"li":15.6,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[39,100,79,63]},
+ {"name":"淡曙红","py":"danshuhong","hex":"#EE2746","h":351,"c":78,"li":51.9,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,89,62,0]},
+ {"name":"唐菖蒲红","py":"tangchangpuhong","hex":"#DE1C31","h":354,"c":76,"li":47.7,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,93,76,0]},
+ {"name":"鹅冠红","py":"eguanhong","hex":"#D11A2D","h":354,"c":72,"li":44.9,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[1,95,82,0]},
+ {"name":"莓红","py":"meihong","hex":"#C45A65","h":354,"c":42,"li":51.8,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[13,76,50,2]},
+ {"name":"枫叶红","py":"fengyehong","hex":"#C21F30","h":354,"c":64,"li":42.3,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[10,96,82,2]},
+ {"name":"苋菜红","py":"xiancaihong","hex":"#A61B29","h":354,"c":55,"li":36.1,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[19,99,86,11]},
+ {"name":"烟红","py":"yanhong","hex":"#894E54","h":354,"c":23,"li":40.3,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[29,73,51,28]},
+ {"name":"暗紫苑红","py":"anziyuanhong","hex":"#82202B","h":353,"c":38,"li":29.3,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[27,98,79,30]},
+ {"name":"殷红","py":"yanhong","hex":"#82111F","h":353,"c":44,"li":27.4,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[27,100,90,29]},
+ {"name":"猪肝紫","py":"zhuganzi","hex":"#541E24","h":353,"c":21,"li":19.8,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[36,95,71,59]},
+ {"name":"金鱼紫","py":"jinyuzi","hex":"#500A16","h":350,"c":27,"li":15.4,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[38,100,81,61]},
+ {"name":"草珠红","py":"caozhuhong","hex":"#F8EBE6","h":17,"c":7,"li":93.9,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[1,11,9,0]},
+ {"name":"淡绛红","py":"danjianghong","hex":"#EC7696","h":344,"c":46,"li":64.2,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,68,21,0]},
+ {"name":"品红","py":"pinhong","hex":"#EF3473","h":340,"c":73,"li":54.1,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,86,30,0]},
+ {"name":"凤仙花红","py":"fengxianhuahong","hex":"#EA7293","h":343,"c":47,"li":63,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,69,22,0]},
+ {"name":"粉团花红","py":"fentuanhuahong","hex":"#EC9BAD","h":347,"c":32,"li":72.4,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,52,18,0]},
+ {"name":"夹竹桃红","py":"jiazhutaohong","hex":"#EB507E","h":342,"c":61,"li":57,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,80,28,0]},
+ {"name":"榲桲红","py":"wenpohong","hex":"#ED2F6A","h":341,"c":75,"li":53,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,88,36,0]},
+ {"name":"姜红","py":"jianghong","hex":"#EEB8C3","h":348,"c":21,"li":79.8,"family":"粉","wx":"火","zx":0,"role":"主","cmyk":[0,39,14,0]},
+ {"name":"莲瓣红","py":"lianbanhong","hex":"#EA517F","h":342,"c":60,"li":57,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,80,27,0]},
+ {"name":"水红","py":"shuihong","hex":"#F1C4CD","h":348,"c":18,"li":83.2,"family":"粉","wx":"火","zx":0,"role":"底","cmyk":[0,33,11,0]},
+ {"name":"报春红","py":"baochunhong","hex":"#EC8AA4","h":344,"c":38,"li":68.5,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,60,18,0]},
+ {"name":"月季红","py":"yuejihong","hex":"#CE5777","h":344,"c":47,"li":53.2,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[8,78,35,1],"note":"上游 hex 与 RGB 字段矛盾, 此处取 hex"},
+ {"name":"豇豆红","py":"jiangdouhong","hex":"#ED9DB2","h":344,"c":31,"li":73.1,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,52,15,0]},
+ {"name":"霞光红","py":"xiaguanghong","hex":"#EF82A0","h":343,"c":43,"li":67.2,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,63,18,0]},
+ {"name":"松叶牡丹红","py":"songyemudanhong","hex":"#EB3C70","h":342,"c":69,"li":54.1,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,85,33,0]},
+ {"name":"喜蛋红","py":"xidanhong","hex":"#EC2C64","h":343,"c":75,"li":52.5,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,88,40,0]},
+ {"name":"鼠鼻红","py":"shubihong","hex":"#E3B4B8","h":355,"c":18,"li":77.5,"family":"粉","wx":"火","zx":0,"role":"主","cmyk":[5,38,20,0]},
+ {"name":"尖晶玉红","py":"jianjingyuhong","hex":"#CC163A","h":348,"c":71,"li":43.8,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[5,96,73,1]},
+ {"name":"山黎豆红","py":"shanlidouhong","hex":"#C27C88","h":350,"c":27,"li":59.6,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[16,61,34,4]},
+ {"name":"锦葵红","py":"jinkuihong","hex":"#BF3553","h":347,"c":54,"li":44.6,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[13,90,56,3]},
+ {"name":"鼠背灰","py":"shubeihui","hex":"#73575C","h":349,"c":11,"li":40,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[41,64,44,36]},
+ {"name":"甘蔗紫","py":"ganzhezi","hex":"#621624","h":349,"c":30,"li":21.2,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[33,100,75,49]},
+ {"name":"石竹紫","py":"shizhuzi","hex":"#63071C","h":346,"c":36,"li":19.6,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[32,100,84,49]},
+ {"name":"苍蝇灰","py":"cangyinghui","hex":"#36282B","h":347,"c":5,"li":17.8,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[57,72,54,74]},
+ {"name":"卵石紫","py":"luanshizi","hex":"#30161C","h":346,"c":10,"li":11.2,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[52,88,58,81]},
+ {"name":"李紫","py":"lizi","hex":"#2B1216","h":350,"c":10,"li":9,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[56,88,62,84]},
+ {"name":"茄皮紫","py":"qiepizi","hex":"#2D0C13","h":347,"c":13,"li":7.8,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[58,90,63,83]},
+ {"name":"吊钟花红","py":"diaozhonghuahong","hex":"#CE5E8A","h":336,"c":44,"li":55,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,76,16,0]},
+ {"name":"兔眼红","py":"tuyanhong","hex":"#EC4E8A","h":337,"c":62,"li":57.2,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,81,18,0]},
+ {"name":"紫荆红","py":"zijinghong","hex":"#EE2C79","h":336,"c":76,"li":53.3,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,87,24,0]},
+ {"name":"菜头紫","py":"caitouzi","hex":"#951C48","h":338,"c":47,"li":33.3,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[24,99,52,19]},
+ {"name":"鹞冠紫","py":"yaoguanzi","hex":"#621D34","h":340,"c":27,"li":22.7,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[34,97,54,50]},
+ {"name":"葡萄酒红","py":"putaojiuhong","hex":"#62102E","h":338,"c":32,"li":20.7,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[33,100,58,60]},
+ {"name":"磨石紫","py":"moshizi","hex":"#382129","h":339,"c":9,"li":15.9,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[53,81,50,74]},
+ {"name":"檀紫","py":"tanzi","hex":"#381924","h":339,"c":12,"li":13.6,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[48,90,50,76]},
+ {"name":"火鹅紫","py":"huoezi","hex":"#33141E","h":341,"c":12,"li":11.3,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[50,91,54,79]},
+ {"name":"墨紫","py":"mozi","hex":"#310F1B","h":339,"c":13,"li":9.6,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[53,92,55,81]},
+ {"name":"晶红","py":"jinghong","hex":"#EEA6B7","h":346,"c":28,"li":75.4,"family":"粉","wx":"火","zx":0,"role":"主","cmyk":[0,48,15,0]},
+ {"name":"扁豆花红","py":"biandouhuahong","hex":"#EF498B","h":336,"c":65,"li":57.1,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,82,16,0]},
+ {"name":"白芨红","py":"baijihong","hex":"#DE7897","h":342,"c":40,"li":62.7,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[2,66,22,0]},
+ {"name":"嫩菱红","py":"nenlinghong","hex":"#DE3F7C","h":337,"c":62,"li":52.4,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,85,24,0]},
+ {"name":"菠根红","py":"bogenhong","hex":"#D13C74","h":337,"c":58,"li":49.6,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[5,87,30,1]},
+ {"name":"酢酱草红","py":"cujiangcaohong","hex":"#C5708B","h":341,"c":33,"li":57.4,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[15,68,28,2]},
+ {"name":"洋葱紫","py":"yangcongzi","hex":"#A8456B","h":337,"c":39,"li":43.7,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[22,83,34,11]},
+ {"name":"海象紫","py":"haixiangzi","hex":"#4B1E2F","h":337,"c":18,"li":18.5,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[40,92,47,64]},
+ {"name":"绀紫","py":"ganzi","hex":"#461629","h":336,"c":19,"li":15.7,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[41,97,49,68]},
+ {"name":"古铜紫","py":"gutongzi","hex":"#440E25","h":334,"c":21,"li":13.7,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[42,99,51,69]},
+ {"name":"石蕊红","py":"shiruihong","hex":"#F0C9CF","h":351,"c":15,"li":84.4,"family":"粉","wx":"火","zx":0,"role":"底","cmyk":[0,30,12,0]},
+ {"name":"芍药耕红","py":"shaoyaogenghong","hex":"#EBA0B3","h":345,"c":29,"li":73.6,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,50,16,0]},
+ {"name":"藏花红","py":"canghuahong","hex":"#EC2D7A","h":336,"c":75,"li":53.1,"family":"红","wx":"火","zx":1,"role":"强","cmyk":[0,88,23,0]},
+ {"name":"初荷红","py":"chuhehong","hex":"#E16C96","h":338,"c":46,"li":60.7,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[0,71,18,0]},
+ {"name":"马鞭草紫","py":"mabiancaozi","hex":"#EDE3E7","h":336,"c":4,"li":91.1,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[6,13,7,0]},
+ {"name":"丁香淡紫","py":"dingxiangdanzi","hex":"#E9D7DF","h":333,"c":7,"li":87.6,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[7,20,8,0]},
+ {"name":"丹紫红","py":"danzihong","hex":"#D2568C","h":334,"c":49,"li":54.3,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[7,79,18,0]},
+ {"name":"玫瑰红","py":"meiguihong","hex":"#D2357D","h":332,"c":62,"li":49.2,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[4,89,21,0]},
+ {"name":"淡牵牛紫","py":"danqianniuzi","hex":"#D1C2D3","h":293,"c":7,"li":80.1,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[19,27,9,0]},
+ {"name":"凤信紫","py":"fengxinzi","hex":"#C8ADC4","h":309,"c":11,"li":73.6,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[21,37,12,0]},
+ {"name":"萝兰紫","py":"luolanzi","hex":"#C08EAF","h":320,"c":20,"li":64.7,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[23,53,14,1]},
+ {"name":"玫瑰紫","py":"meiguizi","hex":"#BA2F7B","h":327,"c":55,"li":44.1,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[18,91,18,2]},
+ {"name":"藤萝紫","py":"tengluozi","hex":"#8076A3","h":253,"c":18,"li":52.1,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[58,56,17,2]},
+ {"name":"槿紫","py":"jinzi","hex":"#806D9E","h":263,"c":19,"li":49.5,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[57,62,16,2]},
+ {"name":"蕈紫","py":"xunzi","hex":"#815C94","h":280,"c":22,"li":44.9,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[56,72,15,1]},
+ {"name":"桔梗紫","py":"jiegengzi","hex":"#813C85","h":297,"c":29,"li":37.1,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[54,89,12,1]},
+ {"name":"魏紫","py":"weizi","hex":"#7E1671","h":308,"c":41,"li":29.9,"family":"紫","wx":"间","zx":0,"role":"文","cmyk":[52,100,17,7]},
+ {"name":"芝兰紫","py":"zhilanzi","hex":"#E9CCD3","h":346,"c":11,"li":84.6,"family":"粉","wx":"火","zx":0,"role":"底","cmyk":[3,26,10,0]},
+ {"name":"菱锰红","py":"lingmenghong","hex":"#D276A3","h":331,"c":36,"li":61,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[10,67,12,0]},
+ {"name":"龙须红","py":"longxuhong","hex":"#CC5595","h":328,"c":47,"li":53.5,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[11,97,10,0]},
+ {"name":"蓟粉红","py":"jifenhong","hex":"#E6D2D5","h":351,"c":8,"li":85.9,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[8,22,12,0]},
+ {"name":"电气石红","py":"dianqishihong","hex":"#C35691","h":328,"c":43,"li":52.2,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[16,79,14,1]},
+ {"name":"樱草紫","py":"yingcaozi","hex":"#C06F98","h":330,"c":32,"li":56.9,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[19,68,18,1]},
+ {"name":"芦穗灰","py":"lusuihui","hex":"#BDAEAD","h":4,"c":6,"li":72.3,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[25,31,26,5]},
+ {"name":"隐红灰","py":"yinhonghui","hex":"#B598A1","h":341,"c":11,"li":65.6,"family":"红","wx":"火","zx":1,"role":"主","cmyk":[26,43,26,6]},
+ {"name":"苋菜紫","py":"xiancaizi","hex":"#9B1E64","h":326,"c":49,"li":35.6,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[27,97,27,14]},
+ {"name":"芦灰","py":"luhui","hex":"#856D72","h":348,"c":9,"li":48.4,"family":"灰","wx":"间","zx":0,"role":"主","cmyk":[39,53,38,25]},
+ {"name":"暮云灰","py":"muyunhui","hex":"#4F383E","h":344,"c":9,"li":26.3,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[49,71,49,58]},
+ {"name":"斑鸠灰","py":"banjiuhui","hex":"#482936","h":335,"c":12,"li":20.9,"family":"红","wx":"火","zx":1,"role":"文","cmyk":[49,82,46,63]},
+ {"name":"淡藤萝紫","py":"dantengluozi","hex":"#F2E7E5","h":9,"c":5,"li":92.4,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[4,11,9,0]},
+ {"name":"淡青紫","py":"danqingzi","hex":"#E0C8D1","h":338,"c":9,"li":82.8,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[10,27,11,0]},
+ {"name":"青蛤壳紫","py":"qinghakezi","hex":"#BC84A8","h":321,"c":22,"li":61.7,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[24,58,15,1]},
+ {"name":"豆蔻紫","py":"doukouzi","hex":"#AD6598","h":318,"c":28,"li":52.4,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[31,71,15,1]},
+ {"name":"扁豆紫","py":"biandouzi","hex":"#A35C8F","h":317,"c":28,"li":48.8,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[35,75,18,2]},
+ {"name":"芥花紫","py":"jiehuazi","hex":"#983680","h":315,"c":38,"li":39.4,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[39,91,15,3]},
+ {"name":"青莲","py":"qinglian","hex":"#8B2671","h":315,"c":40,"li":34.1,"family":"紫","wx":"间","zx":0,"role":"文","cmyk":[43,97,19,8]},
+ {"name":"芓紫","py":"zizi","hex":"#894276","h":316,"c":28,"li":38.8,"family":"紫","wx":"间","zx":0,"role":"主","cmyk":[44,85,24,10]},
+ {"name":"葛巾紫","py":"gejinzi","hex":"#7E2065","h":316,"c":37,"li":30.4,"family":"紫","wx":"间","zx":0,"role":"文","cmyk":[45,99,24,16]},
+ {"name":"牵牛紫","py":"qianniuzi","hex":"#681752","h":316,"c":32,"li":24.2,"family":"紫","wx":"间","zx":0,"role":"文","cmyk":[49,100,29,32]},
+ {"name":"紫灰","py":"zihui","hex":"#5D3F51","h":324,"c":12,"li":30.6,"family":"紫","wx":"间","zx":0,"role":"文","cmyk":[53,75,41,41]},
+ {"name":"龙睛鱼紫","py":"longjingyuzi","hex":"#4E2A40","h":323,"c":14,"li":22.5,"family":"紫","wx":"间","zx":0,"role":"文","cmyk":[55,87,41,52]},
+ {"name":"荸荠紫","py":"biqizi","hex":"#411C35","h":319,"c":15,"li":16.6,"family":"紫","wx":"间","zx":0,"role":"文","cmyk":[58,96,40,61]},
+ {"name":"古鼎灰","py":"gudinghui","hex":"#36292F","h":332,"c":5,"li":18.3,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[63,74,52,70]},
+ {"name":"乌梅紫","py":"wumeizi","hex":"#1E131D","h":305,"c":4,"li":7.5,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[81,87,54,84]},
+ {"name":"深牵牛紫","py":"shenqianniuzi","hex":"#1C0D1A","h":308,"c":6,"li":5.5,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[83,87,55,86]},
+ {"name":"银白","py":"yinbai","hex":"#F1F0ED","h":45,"c":2,"li":94.8,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[7,5,7,0]},
+ {"name":"芡食白","py":"qianshibai","hex":"#E2E1E4","h":260,"c":1,"li":89.7,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[13,10,9,0]},
+ {"name":"远山紫","py":"yuanshanzi","hex":"#CCCCD6","h":240,"c":4,"li":82.3,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[23,18,12,1]},
+ {"name":"淡蓝紫","py":"danlanzi","hex":"#A7A8BD","h":237,"c":9,"li":69.4,"family":"灰","wx":"间","zx":0,"role":"主","cmyk":[39,31,17,2]},
+ {"name":"山梗紫","py":"shangengzi","hex":"#61649F","h":237,"c":24,"li":44.5,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[74,64,14,1]},
+ {"name":"螺甸紫","py":"luodianzi","hex":"#74759B","h":238,"c":15,"li":50.5,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[63,53,22,5]},
+ {"name":"玛瑙灰","py":"manaohui","hex":"#CFCCC9","h":30,"c":2,"li":82.2,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[21,17,19,1]},
+ {"name":"野菊紫","py":"yejuzi","hex":"#525288","h":240,"c":21,"li":37.1,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[80,73,21,6]},
+ {"name":"满天星紫","py":"mantianxingzi","hex":"#2E317C","h":238,"c":31,"li":24.4,"family":"蓝","wx":"木","zx":0,"role":"文","cmyk":[100,93,21,5]},
+ {"name":"锌灰","py":"xinhui","hex":"#7A7374","h":351,"c":3,"li":49.1,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[48,45,40,26]},
+ {"name":"野葡萄紫","py":"yeputaozi","hex":"#302F4B","h":242,"c":11,"li":20.7,"family":"蓝","wx":"木","zx":0,"role":"文","cmyk":[91,84,40,43]},
+ {"name":"剑锋紫","py":"jianfengzi","hex":"#3E3841","h":280,"c":4,"li":24.4,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[70,69,49,56]},
+ {"name":"龙葵紫","py":"longkuizi","hex":"#322F3B","h":255,"c":5,"li":20.2,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[79,74,49,60]},
+ {"name":"暗龙胆紫","py":"anlongdanzi","hex":"#22202E","h":249,"c":5,"li":13,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[90,84,50,69]},
+ {"name":"晶石紫","py":"jingshizi","hex":"#1F2040","h":238,"c":13,"li":13.8,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[98,93,48,73]},
+ {"name":"暗蓝紫","py":"anlanzi","hex":"#131124","h":246,"c":7,"li":6,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[100,94,52,77]},
+ {"name":"景泰蓝","py":"jingtailan","hex":"#2775B6","h":207,"c":56,"li":47.7,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[95,46,10,1]},
+ {"name":"尼罗蓝","py":"niluolan","hex":"#2474B5","h":207,"c":57,"li":47.2,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[96,47,11,1]},
+ {"name":"远天蓝","py":"yuantianlan","hex":"#D0DFE6","h":199,"c":9,"li":87.9,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[25,6,10,0]},
+ {"name":"星蓝","py":"xinglan","hex":"#93B5CF","h":206,"c":24,"li":72.1,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[53,19,15,1]},
+ {"name":"羽扇豆蓝","py":"yushandoulan","hex":"#619AC3","h":205,"c":38,"li":61.3,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[74,27,16,2]},
+ {"name":"花青","py":"huaqing","hex":"#2376B7","h":206,"c":58,"li":47.9,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[95,45,10,1]},
+ {"name":"睛蓝","py":"jinglan","hex":"#5698C3","h":204,"c":43,"li":60.2,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[78,27,17,2]},
+ {"name":"虹蓝","py":"honglan","hex":"#2177B8","h":206,"c":59,"li":48.2,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[99,44,10,1]},
+ {"name":"湖水蓝","py":"hushuilan","hex":"#B0D5DF","h":193,"c":18,"li":83,"family":"青","wx":"木","zx":1,"role":"底","cmyk":[43,4,16,0]},
+ {"name":"秋波蓝","py":"qiubolan","hex":"#8ABCD1","h":198,"c":28,"li":73.5,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[59,12,19,0]},
+ {"name":"涧石蓝","py":"jianshilan","hex":"#66A9C9","h":199,"c":39,"li":66.1,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[73,17,20,1]},
+ {"name":"潮蓝","py":"chaolan","hex":"#2983BB","h":203,"c":57,"li":52.2,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[93,36,15,2]},
+ {"name":"群青","py":"qunqing","hex":"#1772B4","h":205,"c":62,"li":46.3,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[99,48,11,1]},
+ {"name":"霁青","py":"jiqing","hex":"#63BBD0","h":192,"c":43,"li":71.4,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[74,2,24,0]},
+ {"name":"碧青","py":"biqing","hex":"#5CB3CC","h":193,"c":44,"li":68.7,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[77,7,24,0]},
+ {"name":"宝石蓝","py":"baoshilan","hex":"#2486B9","h":201,"c":58,"li":52.9,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[94,32,17,3]},
+ {"name":"天蓝","py":"tianlan","hex":"#1677B3","h":203,"c":62,"li":47.8,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[98,43,14,2]},
+ {"name":"柏林蓝","py":"bolinlan","hex":"#126BAE","h":206,"c":61,"li":43.8,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[100,52,11,1]},
+ {"name":"海青","py":"haiqing","hex":"#22A2C3","h":192,"c":63,"li":61.8,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[92,10,25,1]},
+ {"name":"钴蓝","py":"gulan","hex":"#1A94BC","h":195,"c":64,"li":57.1,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[94,16,23,3]},
+ {"name":"鸢尾蓝","py":"yuanweilan","hex":"#158BB8","h":197,"c":64,"li":54.1,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[95,25,20,4]},
+ {"name":"牵牛花蓝","py":"qianniuhualan","hex":"#1177B0","h":202,"c":62,"li":47.6,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[98,42,16,3]},
+ {"name":"飞燕草蓝","py":"feiyancaolan","hex":"#0F59A4","h":210,"c":58,"li":37.7,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[100,65,11,1]},
+ {"name":"品蓝","py":"pinlan","hex":"#2B73AF","h":207,"c":52,"li":46.8,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[95,47,14,2]},
+ {"name":"银鱼白","py":"yinyubai","hex":"#CDD1D3","h":200,"c":2,"li":83.6,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[24,14,16,1]},
+ {"name":"安安蓝","py":"ananlan","hex":"#3170A7","h":208,"c":46,"li":45.7,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[93,49,17,3]},
+ {"name":"鱼尾灰","py":"yuweihui","hex":"#5E616D","h":228,"c":6,"li":41.3,"family":"灰","wx":"间","zx":0,"role":"主","cmyk":[64,52,39,28]},
+ {"name":"鲸鱼灰","py":"jingyuhui","hex":"#475164","h":219,"c":11,"li":34.3,"family":"蓝","wx":"木","zx":0,"role":"文","cmyk":[78,60,40,31]},
+ {"name":"海参灰","py":"haishenhui","hex":"#FFFEFA","h":48,"c":2,"li":99.6,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[69,64,52,59]},
+ {"name":"沙鱼灰","py":"shayuhui","hex":"#35333C","h":253,"c":4,"li":21.8,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[76,70,51,60]},
+ {"name":"钢蓝","py":"ganglan","hex":"#0F1423","h":225,"c":8,"li":6.5,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[100,89,54,79]},
+ {"name":"云水蓝","py":"yunshuilan","hex":"#BACCD9","h":205,"c":12,"li":81.1,"family":"蓝","wx":"木","zx":0,"role":"底","cmyk":[35,13,13,0]},
+ {"name":"晴山蓝","py":"qingshanlan","hex":"#8FB2C9","h":204,"c":23,"li":70.8,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[55,20,18,1]},
+ {"name":"靛青","py":"dianqing","hex":"#1661AB","h":210,"c":58,"li":40.7,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[100,60,8,1]},
+ {"name":"大理石灰","py":"dalishihui","hex":"#C4CBCF","h":202,"c":4,"li":81.3,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[29,16,17,1]},
+ {"name":"海涛蓝","py":"haitaolan","hex":"#15559A","h":211,"c":52,"li":36,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[100,67,16,3]},
+ {"name":"蝶翅蓝","py":"diechilan","hex":"#4E7CA1","h":207,"c":33,"li":50.2,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[81,41,24,8]},
+ {"name":"海军蓝","py":"haijunlan","hex":"#346C9C","h":208,"c":41,"li":44,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[93,50,21,6]},
+ {"name":"水牛灰","py":"shuiniuhui","hex":"#2F2F35","h":240,"c":2,"li":19.6,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[77,68,54,66]},
+ {"name":"牛角灰","py":"niujiaohui","hex":"#2D2E36","h":233,"c":4,"li":19.1,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[80,70,53,65]},
+ {"name":"燕颔蓝","py":"yanhanlan","hex":"#131824","h":222,"c":7,"li":8.3,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[100,86,54,78]},
+ {"name":"云峰白","py":"yunfengbai","hex":"#D8E3E7","h":196,"c":6,"li":89.5,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[21,6,10,0]},
+ {"name":"井天蓝","py":"jingtianlan","hex":"#C3D7DF","h":197,"c":11,"li":84.8,"family":"青","wx":"木","zx":1,"role":"底","cmyk":[32,8,13,0]},
+ {"name":"云山蓝","py":"yunshanlan","hex":"#2F90B9","h":198,"c":54,"li":56.1,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[91,24,22,4]},
+ {"name":"釉蓝","py":"youlan","hex":"#1781B5","h":200,"c":62,"li":50.9,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[96,34,18,4]},
+ {"name":"鸥蓝","py":"oulan","hex":"#C7D2D4","h":189,"c":5,"li":83.4,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[28,12,17,0]},
+ {"name":"搪磁蓝","py":"tangcilan","hex":"#11659A","h":203,"c":54,"li":40.8,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[100,53,21,6]},
+ {"name":"月影白","py":"yueyingbai","hex":"#C0C4C3","h":165,"c":2,"li":78.8,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[29,18,21,2]},
+ {"name":"星灰","py":"xinghui","hex":"#B2BBBE","h":195,"c":5,"li":75.3,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[36,20,23,2]},
+ {"name":"淡蓝灰","py":"danlanhui","hex":"#5E7987","h":200,"c":16,"li":49.3,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[70,38,36,18]},
+ {"name":"鷃蓝","py":"yanlan","hex":"#144A74","h":206,"c":38,"li":30.2,"family":"蓝","wx":"木","zx":0,"role":"文","cmyk":[100,68,32,20]},
+ {"name":"嫩灰","py":"nenhui","hex":"#74787A","h":200,"c":2,"li":50.2,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[55,40,40,23]},
+ {"name":"战舰灰","py":"zhanjianhui","hex":"#495C69","h":204,"c":13,"li":38,"family":"蓝","wx":"木","zx":0,"role":"主","cmyk":[77,50,41,31]},
+ {"name":"瓦罐灰","py":"waguanhui","hex":"#47484C","h":228,"c":2,"li":30.6,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[67,57,49,49]},
+ {"name":"青灰","py":"qinghui","hex":"#2B333E","h":215,"c":7,"li":20.9,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[87,69,51,58]},
+ {"name":"鸽蓝","py":"gelan","hex":"#1C2938","h":212,"c":11,"li":16.1,"family":"蓝","wx":"木","zx":0,"role":"文","cmyk":[100,77,50,62]},
+ {"name":"钢青","py":"gangqing","hex":"#142334","h":212,"c":13,"li":13.2,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[100,82,51,64]},
+ {"name":"暗蓝","py":"anlan","hex":"#101F30","h":212,"c":13,"li":11.3,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[100,84,51,68]},
+ {"name":"月白","py":"yuebai","hex":"#EEF7F2","h":147,"c":4,"li":96.5,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[11,0,8,0]},
+ {"name":"海天蓝","py":"haitianlan","hex":"#C6E6E8","h":184,"c":13,"li":89.1,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[33,0,14,0]},
+ {"name":"清水蓝","py":"qingshuilan","hex":"#93D5DC","h":186,"c":29,"li":81.3,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[57,0,22,0]},
+ {"name":"瀑布蓝","py":"pubulan","hex":"#51C4D3","h":187,"c":51,"li":73.5,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[79,0,27,0]},
+ {"name":"蔚蓝","py":"weilan","hex":"#29B7CB","h":187,"c":64,"li":68.5,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[89,0,29,0]},
+ {"name":"孔雀蓝","py":"kongquelan","hex":"#0EB0C9","h":188,"c":73,"li":66,"family":"青","wx":"木","zx":1,"role":"强","cmyk":[92,0,28,0]},
+ {"name":"甸子蓝","py":"dianzilan","hex":"#10AEC2","h":187,"c":70,"li":65.2,"family":"青","wx":"木","zx":1,"role":"强","cmyk":[93,0,31,0]},
+ {"name":"石绿","py":"shilv","hex":"#57C3C2","h":179,"c":42,"li":72.9,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[78,36,0,0]},
+ {"name":"竹篁绿","py":"zhuhuanglv","hex":"#B9DEC9","h":146,"c":15,"li":85.4,"family":"绿","wx":"木","zx":1,"role":"底","cmyk":[40,0,30,0]},
+ {"name":"粉绿","py":"fenlv","hex":"#83CBAC","h":154,"c":28,"li":76.4,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[64,0,46,0]},
+ {"name":"美蝶绿","py":"meidielv","hex":"#12AA9C","h":174,"c":60,"li":62.7,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[95,0,52,0]},
+ {"name":"毛绿","py":"maolv","hex":"#66C18C","h":145,"c":36,"li":71.5,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[75,0,61,0]},
+ {"name":"蔻梢绿","py":"koushaolv","hex":"#5DBE8A","h":148,"c":38,"li":70.2,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[78,0,62,0]},
+ {"name":"麦苗绿","py":"maimiaolv","hex":"#55BB8A","h":151,"c":40,"li":69,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[81,0,62,0]},
+ {"name":"蛙绿","py":"walv","hex":"#45B787","h":155,"c":45,"li":67.2,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[86,0,63,0]},
+ {"name":"铜绿","py":"tonglv","hex":"#2BAE85","h":161,"c":51,"li":63.7,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[92,0,64,0]},
+ {"name":"竹绿","py":"zhulv","hex":"#1BA784","h":165,"c":55,"li":61.3,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[96,0,64,0]},
+ {"name":"蓝绿","py":"lanlv","hex":"#12A182","h":167,"c":56,"li":59.2,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[98,2,64,0]},
+ {"name":"穹灰","py":"qionghui","hex":"#C4D7D6","h":177,"c":7,"li":84.6,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[32,7,18,0]},
+ {"name":"翠蓝","py":"cuilan","hex":"#1E9EB3","h":188,"c":58,"li":59.9,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[94,11,33,1]},
+ {"name":"胆矾蓝","py":"danfanlan","hex":"#0F95B0","h":190,"c":63,"li":56.8,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[96,16,31,3]},
+ {"name":"樫鸟蓝","py":"jianniaolan","hex":"#1491A8","h":189,"c":58,"li":55.3,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[96,18,34,4]},
+ {"name":"闪蓝","py":"shanlan","hex":"#7CABB1","h":187,"c":21,"li":67,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[64,18,32,2]},
+ {"name":"冰山蓝","py":"bingshanlan","hex":"#A4ACA7","h":143,"c":3,"li":69.6,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[40,24,32,6]},
+ {"name":"虾壳青","py":"xiakeqing","hex":"#869D9D","h":180,"c":9,"li":63,"family":"灰","wx":"间","zx":0,"role":"主","cmyk":[56,26,36,7]},
+ {"name":"晚波蓝","py":"wanbolan","hex":"#648E93","h":186,"c":18,"li":56.2,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[71,28,39,10]},
+ {"name":"蜻蜓蓝","py":"qingtinglan","hex":"#3B818C","h":188,"c":32,"li":50.1,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[89,27,41,13]},
+ {"name":"玉鈫蓝","py":"yuqinlan","hex":"#126E82","h":191,"c":44,"li":42.6,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[99,33,38,21]},
+ {"name":"垩灰","py":"ehui","hex":"#737C7B","h":173,"c":4,"li":51.3,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[57,37,42,21]},
+ {"name":"夏云灰","py":"xiayunhui","hex":"#617172","h":184,"c":7,"li":46.4,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[65,40,44,26]},
+ {"name":"苍蓝","py":"canglan","hex":"#134857","h":193,"c":27,"li":28,"family":"青","wx":"木","zx":1,"role":"文","cmyk":[100,52,46,43]},
+ {"name":"黄昏灰","py":"huanghunhui","hex":"#474B4C","h":192,"c":2,"li":31.6,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[67,53,51,50]},
+ {"name":"灰蓝","py":"huilan","hex":"#21373D","h":193,"c":11,"li":21.6,"family":"青","wx":"木","zx":1,"role":"文","cmyk":[94,58,54,60]},
+ {"name":"深灰蓝","py":"shenhuilan","hex":"#132C33","h":193,"c":13,"li":16.4,"family":"青","wx":"木","zx":1,"role":"文","cmyk":[100,64,56,68]},
+ {"name":"玉簪绿","py":"yuzanlv","hex":"#A4CAB6","h":148,"c":15,"li":78.2,"family":"绿","wx":"木","zx":1,"role":"底","cmyk":[49,5,37,0]},
+ {"name":"青矾绿","py":"qingfanlv","hex":"#2C9678","h":163,"c":42,"li":55.8,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[96,12,66,2]},
+ {"name":"草原远绿","py":"caoyuanyuanlv","hex":"#9ABEAF","h":155,"c":14,"li":74.1,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[52,11,37,0]},
+ {"name":"梧枝绿","py":"wuzhilv","hex":"#69A794","h":162,"c":24,"li":64,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[74,14,51,1]},
+ {"name":"浪花绿","py":"langhualv","hex":"#92B3A5","h":155,"c":13,"li":70.2,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[55,16,40,1]},
+ {"name":"海王绿","py":"haiwanglv","hex":"#248067","h":164,"c":36,"li":48,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[99,23,70,10]},
+ {"name":"亚丁绿","py":"yadinglv","hex":"#428675","h":165,"c":27,"li":51.3,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[88,24,61,9]},
+ {"name":"镍灰","py":"niehui","hex":"#9FA39A","h":87,"c":4,"li":66.4,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[40,27,36,8]},
+ {"name":"明灰","py":"minghui","hex":"#8A988E","h":137,"c":5,"li":61.5,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[52,28,42,10]},
+ {"name":"淡绿灰","py":"danlvhui","hex":"#70887D","h":153,"c":9,"li":54.6,"family":"灰","wx":"间","zx":0,"role":"主","cmyk":[63,31,50,14]},
+ {"name":"飞泉绿","py":"feiquanlv","hex":"#497568","h":162,"c":17,"li":45.8,"family":"青","wx":"木","zx":1,"role":"主","cmyk":[82,32,60,20]},
+ {"name":"狼烟灰","py":"langyanhui","hex":"#5D655F","h":135,"c":3,"li":41.9,"family":"灰","wx":"间","zx":0,"role":"主","cmyk":[62,43,52,34]},
+ {"name":"绿灰","py":"lvhui","hex":"#314A43","h":163,"c":10,"li":29.3,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[85,44,64,52]},
+ {"name":"苍绿","py":"canglv","hex":"#223E36","h":163,"c":11,"li":23.8,"family":"青","wx":"木","zx":1,"role":"文","cmyk":[93,46,70,61]},
+ {"name":"深海绿","py":"shenhailv","hex":"#1A3B32","h":164,"c":13,"li":22.2,"family":"青","wx":"木","zx":1,"role":"文","cmyk":[98,46,73,63]},
+ {"name":"长石灰","py":"changshihui","hex":"#363433","h":20,"c":1,"li":21.9,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[67,60,57,68]},
+ {"name":"苷蓝绿","py":"ganlanlv","hex":"#1F2623","h":154,"c":3,"li":14.4,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[82,60,65,80]},
+ {"name":"莽丛绿","py":"mangconglv","hex":"#141E1B","h":162,"c":4,"li":10.2,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[90,62,67,86]},
+ {"name":"淡翠绿","py":"dancuilv","hex":"#C6DFC8","h":125,"c":10,"li":86.5,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[33,1,29,0]},
+ {"name":"明绿","py":"minglv","hex":"#9ECCAB","h":137,"c":18,"li":78.1,"family":"绿","wx":"木","zx":1,"role":"底","cmyk":[53,1,44,0]},
+ {"name":"田园绿","py":"tianyuanlv","hex":"#68B88E","h":149,"c":31,"li":68.9,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[75,0,59,0]},
+ {"name":"翠绿","py":"cuilv","hex":"#20A162","h":151,"c":51,"li":58.7,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[98,0,82,0]},
+ {"name":"淡绿","py":"danlv","hex":"#61AC85","h":149,"c":29,"li":64.8,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[78,6,62,0]},
+ {"name":"葱绿","py":"conglv","hex":"#40A070","h":150,"c":38,"li":59.3,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[90,7,73,0]},
+ {"name":"孔雀绿","py":"kongquelv","hex":"#229453","h":146,"c":45,"li":54.2,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[99,10,91,2]},
+ {"name":"艾绿","py":"ailv","hex":"#CAD3C3","h":94,"c":6,"li":83.5,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[27,11,27,1]},
+ {"name":"蟾绿","py":"chanlv","hex":"#3C9566","h":148,"c":35,"li":55.5,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[92,14,76,2]},
+ {"name":"宫殿绿","py":"gongdianlv","hex":"#20894D","h":146,"c":41,"li":50.4,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[100,17,92,5]},
+ {"name":"松霜绿","py":"songshuanglv","hex":"#83A78D","h":137,"c":14,"li":65.3,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[61,19,52,3]},
+ {"name":"蛋白石绿","py":"danbaishilv","hex":"#579572","h":146,"c":24,"li":56.8,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[81,19,67,4]},
+ {"name":"薄荷绿","py":"bohelv","hex":"#207F4C","h":148,"c":37,"li":47,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[100,22,90,10]},
+ {"name":"瓦松绿","py":"wasonglv","hex":"#6E8B74","h":132,"c":11,"li":55.1,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[66,29,58,12]},
+ {"name":"荷叶绿","py":"heyelv","hex":"#1A6840","h":149,"c":31,"li":38.7,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[100,31,91,25]},
+ {"name":"田螺绿","py":"tianluolv","hex":"#5E665B","h":104,"c":4,"li":42.2,"family":"灰","wx":"间","zx":0,"role":"主","cmyk":[62,42,56,34]},
+ {"name":"白屈菜绿","py":"baiqucailv","hex":"#485B4D","h":136,"c":7,"li":36.7,"family":"灰","wx":"间","zx":0,"role":"主","cmyk":[74,42,65,40]},
+ {"name":"河豚灰","py":"hetunhui","hex":"#393733","h":40,"c":2,"li":23.1,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[64,57,60,67]},
+ {"name":"蒽油绿","py":"enyoulv","hex":"#373834","h":75,"c":2,"li":23.3,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[68,56,60,66]},
+ {"name":"槲寄生绿","py":"hujishenglv","hex":"#2B312C","h":130,"c":2,"li":19.6,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[76,56,75,72]},
+ {"name":"云杉绿","py":"yunshanlv","hex":"#15231B","h":146,"c":5,"li":12.2,"family":"黑","wx":"水","zx":1,"role":"文","cmyk":[91,60,76,83]},
+ {"name":"嫩菊绿","py":"nenjulv","hex":"#F0F5E5","h":79,"c":6,"li":95.8,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[9,1,14,0]},
+ {"name":"艾背绿","py":"aibeilv","hex":"#DFECD5","h":94,"c":9,"li":91.9,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[20,1,23,0]},
+ {"name":"嘉陵水绿","py":"jialingshuilv","hex":"#ADD5A2","h":107,"c":20,"li":81.3,"family":"绿","wx":"木","zx":1,"role":"底","cmyk":[47,0,49,0]},
+ {"name":"玉髓绿","py":"yusuilv","hex":"#41B349","h":124,"c":45,"li":64.8,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[89,0,96,0]},
+ {"name":"鲜绿","py":"xianlv","hex":"#43B244","h":121,"c":44,"li":64.5,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[88,0,99,0]},
+ {"name":"宝石绿","py":"baoshilv","hex":"#41AE3C","h":117,"c":45,"li":63.1,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[90,0,100,0]},
+ {"name":"海沫绿","py":"haimolyu","hex":"#E2E7BF","h":68,"c":16,"li":90.4,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[18,4,33,0]},
+ {"name":"姚黄","py":"yaohuang","hex":"#D0DEAA","h":76,"c":20,"li":86.3,"family":"黄绿","wx":"木","zx":1,"role":"底","cmyk":[28,4,44,0]},
+ {"name":"橄榄石绿","py":"ganlanshilv","hex":"#B2CF87","h":84,"c":28,"li":79.5,"family":"黄绿","wx":"木","zx":1,"role":"主","cmyk":[44,3,61,0]},
+ {"name":"水绿","py":"shuilv","hex":"#8CC269","h":96,"c":35,"li":73,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[62,0,76,0]},
+ {"name":"芦苇绿","py":"luweilv","hex":"#B7D07A","h":77,"c":34,"li":79.9,"family":"黄绿","wx":"木","zx":1,"role":"主","cmyk":[42,3,67,0]},
+ {"name":"槐花黄绿","py":"huaihuahuanglv","hex":"#D2D97A","h":64,"c":37,"li":84.3,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[28,6,66,0]},
+ {"name":"苹果绿","py":"pingguolv","hex":"#BACF65","h":72,"c":42,"li":79.6,"family":"黄绿","wx":"木","zx":1,"role":"主","cmyk":[41,4,76,0]},
+ {"name":"芽绿","py":"yalv","hex":"#96C24E","h":83,"c":45,"li":73.3,"family":"黄绿","wx":"木","zx":1,"role":"主","cmyk":[58,1,88,0]},
+ {"name":"蝶黄","py":"diehuang","hex":"#E2D849","h":56,"c":60,"li":84.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[19,9,84,1]},
+ {"name":"橄榄黄绿","py":"ganlanhuanglv","hex":"#BEC936","h":64,"c":58,"li":77.9,"family":"黄","wx":"土","zx":1,"role":"主","cmyk":[38,8,94,1]},
+ {"name":"鹦鹉绿","py":"yingwulv","hex":"#5BAE23","h":96,"c":55,"li":63.9,"family":"绿","wx":"木","zx":1,"role":"主","cmyk":[81,0,100,0]},
+ {"name":"油绿","py":"youlv","hex":"#253D24","h":118,"c":10,"li":23.2,"family":"灰","wx":"间","zx":0,"role":"文","cmyk":[84,64,94,45]},
+ {"name":"象牙白","py":"xiangyabai","hex":"#FFFEF8","h":51,"c":3,"li":99.6,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[0,1,4,0]},
+ {"name":"汉白玉","py":"hanbaiyu","hex":"#F8F4ED","h":38,"c":4,"li":96.3,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[3,5,8,0]},
+ {"name":"雪白","py":"xuebai","hex":"#FFFEF9","h":50,"c":2,"li":99.6,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[0,1,3,0]},
+ {"name":"鱼肚白","py":"yudubai","hex":"#F7F4ED","h":42,"c":4,"li":96.2,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[4,4,8,0]},
+ {"name":"珍珠灰","py":"zhenzhuhui","hex":"#E4DFD7","h":37,"c":5,"li":89,"family":"白","wx":"金","zx":1,"role":"底","cmyk":[12,12,16,0]},
+ {"name":"浅灰","py":"qianhui","hex":"#DAD4CB","h":36,"c":6,"li":85.2,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[16,15,20,1]},
+ {"name":"铅灰","py":"qianhui","hex":"#BBB5AC","h":36,"c":6,"li":73.9,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[28,5,30,5]},
+ {"name":"中灰","py":"zhonghui","hex":"#A49C93","h":32,"c":7,"li":64.8,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[35,33,38,4]},
+ {"name":"瓦灰","py":"wahui","hex":"#867E76","h":30,"c":6,"li":53.3,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[42,40,43,23]},
+ {"name":"夜灰","py":"yehui","hex":"#847C74","h":30,"c":6,"li":52.5,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[43,40,44,42]},
+ {"name":"雁灰","py":"yanhui","hex":"#80766E","h":27,"c":7,"li":50.3,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[42,42,45,27]},
+ {"name":"深灰","py":"shenhui","hex":"#81776E","h":28,"c":7,"li":50.7,"family":"灰","wx":"间","zx":0,"role":"底","cmyk":[42,42,46,27]}
 ]
